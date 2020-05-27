@@ -71,7 +71,7 @@
 
 <?php
 
-$servername = "localhost";
+$servername = "127.0.0.1";
 $username = "lawrence910426";
 $password = "2rjurrru";
 $dbname = "fishing";
@@ -86,9 +86,9 @@ if ($conn->connect_error) {
 $sql = "INSERT INTO `a`(`account`, `password`) VALUES ('$account2','$password2')";
 
 if ($conn->query($sql) === TRUE) {
-    echo "New record created successfully";
+    # echo "New record created successfully";
 } else {
-    echo "Error: " . $sql . "<br>" . $conn->error;
+    # echo "Error: " . $sql . "<br>" . $conn->error;
 }
 
 $conn->close();

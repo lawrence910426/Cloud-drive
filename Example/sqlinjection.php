@@ -11,7 +11,7 @@
 
 <?php
 
-$servername = "localhost";
+$servername = "127.0.0.1";
 $username = "lawrence910426";
 $password = "2rjurrru";
 $dbname = "fishing";
