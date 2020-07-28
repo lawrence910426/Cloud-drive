@@ -2,9 +2,9 @@
 - Create a /?/ database.
 - Import the files into database.
 
-> Political Study (O)
+> ~~Political Study~~ (O)
 >
-> ~~National Security~~ (X)
+> National Security (X)
 
 
 # Interesting topics
