@@ -17,8 +17,8 @@
 	- Possessing ability or born with a gold family?
 	- Family politics? Political legacy?
 - Detailed Analysis
-	- Gender?
-	- Indegenous?
-	- Regional Rate?
-	- Party?
+	- Gender? (Male/Female)
+	- Indegenous? (True/False)
+	- Regional? (.......)
+	- Party? (KMT / DPP / Others)
 	- Disregarding a specific group of people might lead to rebel. (e.g. USA Boston Tea Event)
