@@ -20,5 +20,5 @@
 	- Gender?
 	- Indegenous?
 	- Regional Rate?
-	- Party Rate?
+	- Party?
 	- Disregarding a specific group of people might lead to rebel. (e.g. USA Boston Tea Event)
