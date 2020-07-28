@@ -16,6 +16,7 @@
 	- The relationships between election and family
 	- Possessing ability or born with a gold family?
 	- Family politics? Political legacy?
+	- Family politic leads to monarchy, which is a sign of corruption and rebel, which futher effects national security.
 - Detailed Analysis
 	- Gender? (Male/Female)
 	- Indegenous? (True/False)
