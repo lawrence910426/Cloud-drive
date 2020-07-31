@@ -1,0 +1,25 @@
+# TODO
+- Create a /?/ database.
+- Import the files into database.
+
+> ~~Political Study~~ (O)
+>
+> National Security (X)
+
+
+# Interesting topics
+- Regional party trend - Miaoli
+	- KMT always wins
+	- Brain Night Night Show
+	- Sarcastic & More Sarcastic
+- Family Graph
+	- The relationships between election and family
+	- Possessing ability or born with a gold family?
+	- Family politics? Political legacy?
+	- Family politic leads to monarchy, which is a sign of corruption and rebel, which futher effects national security.
+- Detailed Analysis
+	- Gender? (Male/Female)
+	- Indegenous? (True/False)
+	- Regional? (.......)
+	- Party? (KMT / DPP / Others)
+	- Disregarding a specific group of people might lead to rebel. (e.g. USA Boston Tea Event)
