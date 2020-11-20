@@ -1,0 +1,37 @@
+資奧前
+
+TOEIC 金色
+
+
+
+
+
+
+資奧後
+
+線性代數、微積分
+Python 股票
+歌曲 肄業快樂
+跆拳道二段
+開演講(?)
+
+毒瘤講義
+- Fibonacci Heap
+- 全方位木 dp
+- Zkw segment tree
+
+
+
+研究主題
+
+決鬥吧，遊戲 BOY！拿機器學習玩 UNO
+
+
+
+
+決鬥吧，細胞 BOY！拿機器學習玩 Agar.io
+決鬥吧，自動機！拿機器學習玩 Conway's game of life
+[Javascript obfuscation & deobfuscation] Implemented by machine learning (LSTM)
+[社會行為科學] 我該種植什麼菜？以機器學習在資方、農方模型找尋奈許平衡點
+研究 忠臣與叛徒遊戲 可以對應到 2-SAT
+基因算法，根據最大權二分圖匹配的配偶最佳化
