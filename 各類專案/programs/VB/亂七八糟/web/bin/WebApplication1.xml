@@ -1,0 +1,148 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebApplication1
+</name>
+</assembly>
+<members>
+<member name="F:WebApplication1.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member><member name="F:WebApplication1.Login.LoginUser">
+	<summary>
+LoginUser 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member><member name="F:WebApplication1.Register.RegisterUser">
+	<summary>
+RegisterUser 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member><member name="F:WebApplication1.Register.RegisterUserWizardStep">
+	<summary>
+RegisterUserWizardStep 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member><member name="F:WebApplication1.About.form1">
+	<summary>
+form1 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="P:WebApplication1.My.MyWebExtension.Application">
+	<summary>
+ 傳回有關目前應用程式的資訊。
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.Computer">
+	<summary>
+ 傳回主機電腦的相關資訊。
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.User">
+	<summary>
+ 傳回目前 Web 使用者的資訊。
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.Request">
+	<summary>
+ 傳回 Request 物件。
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.Response">
+	<summary>
+ 傳回 Response 物件。
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.Log">
+	<summary>
+ 傳回 Asp 記錄物件。
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.WebServices">
+	<summary>
+ 提供對加入此專案之 WebServices 的存取。
+ </summary>
+</member><member name="T:WebApplication1.My.MyWebExtension">
+	<summary>
+ 用來定義可用於 Web 專案 My 命名空間中之屬性的模組。
+ </summary>
+	<remarks></remarks>
+</member><member name="F:WebApplication1.ChangePassword.ChangeUserPassword">
+	<summary>
+ChangeUserPassword 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member><member name="F:WebApplication1.WebForm1.form1">
+	<summary>
+form1 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:WebApplication1.Site.HeadContent">
+	<summary>
+HeadContent 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member><member name="F:WebApplication1.Site.MasterPageScriptManager">
+	<summary>
+MasterPageScriptManager 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member><member name="F:WebApplication1.Site.HeadLoginView">
+	<summary>
+HeadLoginView 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member><member name="F:WebApplication1.Site.HeadHomeLink">
+	<summary>
+HeadHomeLink 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member><member name="F:WebApplication1.Site.HeadAboutLink">
+	<summary>
+HeadAboutLink 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member><member name="F:WebApplication1.Site.MainContent">
+	<summary>
+MainContent 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,24 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\unlockBMP\obj\x86\Debug\unlockBMP.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\unlockBMP\obj\x86\Debug\unlockBMP.vbproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\unlockBMP\bin\Debug\unlockBMP.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\unlockBMP\bin\Debug\unlockBMP.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\unlockBMP\bin\Debug\unlockBMP.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\unlockBMP\obj\x86\Debug\unlockBMP.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\unlockBMP\obj\x86\Debug\unlockBMP.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\unlockBMP\obj\x86\Debug\unlockBMP.pdb
+D:\0Prog\programs\VB\unlockBMP\unlockBMP\obj\x86\Debug\unlockBMP.exe
+D:\0Prog\programs\VB\unlockBMP\unlockBMP\obj\x86\Debug\unlockBMP.xml
+D:\0Prog\programs\VB\unlockBMP\unlockBMP\obj\x86\Debug\unlockBMP.pdb
+D:\0Prog\programs\VB\unlockBMP\unlockBMP\bin\Debug\unlockBMP.exe
+D:\0Prog\programs\VB\unlockBMP\unlockBMP\bin\Debug\unlockBMP.pdb
+D:\0Prog\programs\VB\unlockBMP\unlockBMP\bin\Debug\unlockBMP.xml
+D:\0Prog\programs\VB\unlockBMP\unlockBMP\obj\x86\Debug\unlockBMP.Resources.resources
+D:\0Prog\programs\VB\unlockBMP\unlockBMP\obj\x86\Debug\unlockBMP.vbproj.GenerateResource.Cache
+D:\programs\VB\亂七八糟\unlockBMP\unlockBMP\obj\x86\Debug\unlockBMP.exe
+D:\programs\VB\亂七八糟\unlockBMP\unlockBMP\obj\x86\Debug\unlockBMP.xml
+D:\programs\VB\亂七八糟\unlockBMP\unlockBMP\obj\x86\Debug\unlockBMP.pdb
+D:\programs\VB\亂七八糟\unlockBMP\unlockBMP\bin\Debug\unlockBMP.exe
+D:\programs\VB\亂七八糟\unlockBMP\unlockBMP\bin\Debug\unlockBMP.pdb
+D:\programs\VB\亂七八糟\unlockBMP\unlockBMP\bin\Debug\unlockBMP.xml
+D:\programs\VB\亂七八糟\unlockBMP\unlockBMP\obj\x86\Debug\unlockBMP.Resources.resources
+D:\programs\VB\亂七八糟\unlockBMP\unlockBMP\obj\x86\Debug\unlockBMP.vbproj.GenerateResource.Cache

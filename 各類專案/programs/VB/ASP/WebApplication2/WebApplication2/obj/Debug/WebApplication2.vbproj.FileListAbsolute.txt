@@ -1,0 +1,16 @@
+D:\vb程式\ASP\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\vb程式\ASP\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\vb程式\ASP\WebApplication2\WebApplication2\bin\WebApplication2.xml
+D:\vb程式\ASP\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+D:\vb程式\ASP\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
+D:\vb程式\ASP\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\vb程式\ASP\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
+D:\vb程式\ASP\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+D:\0Prog\programs\VB\ASP\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\0Prog\programs\VB\ASP\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\0Prog\programs\VB\ASP\WebApplication2\WebApplication2\bin\WebApplication2.xml
+D:\0Prog\programs\VB\ASP\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+D:\0Prog\programs\VB\ASP\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
+D:\0Prog\programs\VB\ASP\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\0Prog\programs\VB\ASP\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
+D:\0Prog\programs\VB\ASP\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

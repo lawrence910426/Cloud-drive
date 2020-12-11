@@ -1,0 +1,19 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\abc\obj\x86\Debug\abc.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\abc\obj\x86\Debug\abc.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\abc\obj\x86\Debug\abc.vbproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\abc\bin\Debug\abc.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\abc\bin\Debug\abc.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\abc\bin\Debug\abc.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\abc\obj\x86\Debug\abc.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\abc\obj\x86\Debug\abc.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\abc\obj\x86\Debug\abc.pdb
+D:\vb程式\abc\abc\obj\x86\Debug\abc.exe
+D:\vb程式\abc\abc\obj\x86\Debug\abc.xml
+D:\vb程式\abc\abc\obj\x86\Debug\abc.pdb
+D:\vb程式\abc\abc\bin\Debug\abc.exe
+D:\vb程式\abc\abc\bin\Debug\abc.pdb
+D:\vb程式\abc\abc\bin\Debug\abc.xml
+D:\vb程式\abc\abc\obj\x86\Debug\abc.Form1.resources
+D:\vb程式\abc\abc\obj\x86\Debug\abc.Resources.resources
+D:\vb程式\abc\abc\obj\x86\Debug\abc.vbproj.GenerateResource.Cache
+D:\vb程式\abc\abc\obj\x86\Debug\abc.Form2.resources

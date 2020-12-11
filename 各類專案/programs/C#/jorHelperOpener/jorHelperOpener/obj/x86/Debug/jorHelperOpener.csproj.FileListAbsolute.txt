@@ -1,0 +1,4 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\jorHelperOpener\bin\Debug\jorHelperOpener.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\jorHelperOpener\bin\Debug\jorHelperOpener.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\jorHelperOpener\obj\x86\Debug\jorHelperOpener.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\jorHelperOpener\obj\x86\Debug\jorHelperOpener.pdb

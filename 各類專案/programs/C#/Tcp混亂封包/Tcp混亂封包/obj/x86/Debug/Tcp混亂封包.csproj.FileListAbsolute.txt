@@ -1,0 +1,13 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\Tcp混亂封包\bin\Debug\Tcp混亂封包.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\Tcp混亂封包\bin\Debug\Tcp混亂封包.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\Tcp混亂封包\obj\x86\Debug\Tcp混亂封包.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\Tcp混亂封包\obj\x86\Debug\Tcp混亂封包.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\Tcp混亂封包\obj\x86\Debug\Tcp混亂封包.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\Tcp混亂封包\obj\x86\Debug\Tcp混亂封包.pdb
+D:\programs\C#\Tcp混亂封包\Tcp混亂封包\obj\x86\Debug\Tcp混亂封包.exe
+D:\programs\C#\Tcp混亂封包\Tcp混亂封包\obj\x86\Debug\Tcp混亂封包.pdb
+D:\programs\C#\Tcp混亂封包\Tcp混亂封包\bin\Debug\Tcp混亂封包.exe
+D:\programs\C#\Tcp混亂封包\Tcp混亂封包\bin\Debug\Tcp混亂封包.pdb
+D:\programs\C#\Tcp混亂封包\Tcp混亂封包\obj\x86\Debug\Tcp混亂封包.Properties.Resources.resources
+D:\programs\C#\Tcp混亂封包\Tcp混亂封包\obj\x86\Debug\Tcp混亂封包.csproj.GenerateResource.Cache
+D:\programs\C#\Tcp混亂封包\Tcp混亂封包\obj\x86\Debug\Tcp混亂封包.Form1.resources

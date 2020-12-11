@@ -1,0 +1,9 @@
+D:\vb程式\AngryBirdsGo\AngryBirdsGo\bin\Debug\AngryBirdsGo.exe
+D:\vb程式\AngryBirdsGo\AngryBirdsGo\bin\Debug\AngryBirdsGo.pdb
+D:\vb程式\AngryBirdsGo\AngryBirdsGo\bin\Debug\AngryBirdsGo.xml
+D:\vb程式\AngryBirdsGo\AngryBirdsGo\obj\x86\Debug\AngryBirdsGo.Form1.resources
+D:\vb程式\AngryBirdsGo\AngryBirdsGo\obj\x86\Debug\AngryBirdsGo.Resources.resources
+D:\vb程式\AngryBirdsGo\AngryBirdsGo\obj\x86\Debug\AngryBirdsGo.vbproj.GenerateResource.Cache
+D:\vb程式\AngryBirdsGo\AngryBirdsGo\obj\x86\Debug\AngryBirdsGo.exe
+D:\vb程式\AngryBirdsGo\AngryBirdsGo\obj\x86\Debug\AngryBirdsGo.xml
+D:\vb程式\AngryBirdsGo\AngryBirdsGo\obj\x86\Debug\AngryBirdsGo.pdb

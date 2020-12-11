@@ -1,0 +1,9 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\ChineseChess\bin\Debug\ChineseChess.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\ChineseChess\bin\Debug\ChineseChess.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\ChineseChess\obj\x86\Debug\ChineseChess.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\ChineseChess\obj\x86\Debug\ChineseChess.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\ChineseChess\obj\x86\Debug\ChineseChess.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\ChineseChess\obj\x86\Debug\ChineseChess.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\ChineseChess\obj\x86\Debug\ChineseChess.pdb
+D:\C# Prog\ChineseChess\ChineseChess\obj\x86\Debug\ChineseChess.exe
+D:\C# Prog\ChineseChess\ChineseChess\obj\x86\Debug\ChineseChess.pdb

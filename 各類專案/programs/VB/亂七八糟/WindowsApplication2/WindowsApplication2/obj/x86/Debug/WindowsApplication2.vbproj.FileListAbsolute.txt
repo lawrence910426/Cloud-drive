@@ -1,0 +1,12 @@
+D:\vb程式\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\vb程式\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\vb程式\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\vb程式\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\vb程式\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\vb程式\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\vb程式\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\vb程式\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\vb程式\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\programs\VB\亂七八糟\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\programs\VB\亂七八糟\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\programs\VB\亂七八糟\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb

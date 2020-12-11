@@ -1,0 +1,10 @@
+D:\vb程式\123\123\bin\Debug\123.exe
+D:\vb程式\123\123\bin\Debug\123.pdb
+D:\vb程式\123\123\bin\Debug\123.xml
+D:\vb程式\123\123\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\vb程式\123\123\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\vb程式\123\123\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\vb程式\123\123\obj\x86\Debug\123.vbproj.GenerateResource.Cache
+D:\vb程式\123\123\obj\x86\Debug\123.exe
+D:\vb程式\123\123\obj\x86\Debug\123.xml
+D:\vb程式\123\123\obj\x86\Debug\123.pdb

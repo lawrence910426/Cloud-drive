@@ -1,0 +1,15 @@
+﻿已經開始建置於 2014/4/16 下午 09:47:46。
+     1>節點 2 (build 目標) 上的專案 "D:\0Prog\programs\C++\字元查詢器\字元查詢器\字元查詢器.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\字元查詢器.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\字元查詢器.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "字元查詢器.cpp"
+         字元查詢器.cpp
+     1>d:\0prog\programs\c++\字元查詢器\字元查詢器\字元查詢器.cpp(22): error C2450: 型別 'char [100]' 的 switch 運算式不合法
+                 必須是整數運算式
+     1>專案 "D:\0Prog\programs\C++\字元查詢器\字元查詢器\字元查詢器.vcxproj" (build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:07.42

@@ -1,0 +1,12 @@
+D:\f#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+D:\f#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\f#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\f#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.fsprojResolveAssemblyReference.cache
+D:\f#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\f#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\programs\F#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+D:\programs\F#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\programs\F#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\programs\F#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.fsprojResolveAssemblyReference.cache
+D:\programs\F#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\programs\F#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

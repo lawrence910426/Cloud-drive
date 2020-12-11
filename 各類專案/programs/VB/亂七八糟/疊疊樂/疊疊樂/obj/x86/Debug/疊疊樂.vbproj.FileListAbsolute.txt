@@ -1,0 +1,12 @@
+D:\疊疊樂\疊疊樂\bin\Debug\疊疊樂.exe
+D:\疊疊樂\疊疊樂\bin\Debug\疊疊樂.pdb
+D:\疊疊樂\疊疊樂\bin\Debug\疊疊樂.xml
+D:\疊疊樂\疊疊樂\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\疊疊樂\疊疊樂\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\疊疊樂\疊疊樂\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\疊疊樂\疊疊樂\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\疊疊樂\疊疊樂\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\疊疊樂\疊疊樂\obj\x86\Debug\疊疊樂.vbproj.GenerateResource.Cache
+D:\疊疊樂\疊疊樂\obj\x86\Debug\疊疊樂.exe
+D:\疊疊樂\疊疊樂\obj\x86\Debug\疊疊樂.xml
+D:\疊疊樂\疊疊樂\obj\x86\Debug\疊疊樂.pdb

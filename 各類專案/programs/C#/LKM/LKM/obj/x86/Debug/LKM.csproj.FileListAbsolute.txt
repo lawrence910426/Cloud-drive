@@ -1,0 +1,8 @@
+D:\C# Prog\LKM\LKM\bin\Debug\LKM.exe
+D:\C# Prog\LKM\LKM\bin\Debug\LKM.pdb
+D:\C# Prog\LKM\LKM\obj\x86\Debug\LKM.Form1.resources
+D:\C# Prog\LKM\LKM\obj\x86\Debug\LKM.Properties.Resources.resources
+D:\C# Prog\LKM\LKM\obj\x86\Debug\LKM.csproj.GenerateResource.Cache
+D:\C# Prog\LKM\LKM\obj\x86\Debug\LKM.exe
+D:\C# Prog\LKM\LKM\obj\x86\Debug\LKM.pdb
+D:\C# Prog\LKM\LKM\obj\x86\Debug\LKM.csprojResolveAssemblyReference.cache

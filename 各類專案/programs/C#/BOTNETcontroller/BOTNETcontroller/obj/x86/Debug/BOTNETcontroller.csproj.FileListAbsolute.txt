@@ -1,0 +1,15 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\BOTNETcontroller\bin\Debug\BOTNETcontroller.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\BOTNETcontroller\bin\Debug\BOTNETcontroller.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\BOTNETcontroller\obj\x86\Debug\BOTNETcontroller.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\BOTNETcontroller\obj\x86\Debug\BOTNETcontroller.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\BOTNETcontroller\obj\x86\Debug\BOTNETcontroller.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\BOTNETcontroller\obj\x86\Debug\BOTNETcontroller.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\BOTNETcontroller\obj\x86\Debug\BOTNETcontroller.pdb
+D:\C# Prog\BOTNETcontroller\BOTNETcontroller\obj\x86\Debug\BOTNETcontroller.exe
+D:\C# Prog\BOTNETcontroller\BOTNETcontroller\obj\x86\Debug\BOTNETcontroller.pdb
+D:\C# Prog\BOTNETcontroller\BOTNETcontroller\bin\Debug\BOTNETcontroller.exe
+D:\C# Prog\BOTNETcontroller\BOTNETcontroller\bin\Debug\BOTNETcontroller.pdb
+D:\C# Prog\BOTNETcontroller\BOTNETcontroller\obj\x86\Debug\BOTNETcontroller.Form1.resources
+D:\C# Prog\BOTNETcontroller\BOTNETcontroller\obj\x86\Debug\BOTNETcontroller.Properties.Resources.resources
+D:\C# Prog\BOTNETcontroller\BOTNETcontroller\obj\x86\Debug\BOTNETcontroller.csproj.GenerateResource.Cache
+D:\C# Prog\BOTNETcontroller\BOTNETcontroller\obj\x86\Debug\BOTNETcontroller.csprojResolveAssemblyReference.cache

@@ -1,0 +1,248 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+secondDataBase
+</name>
+</assembly>
+<members>
+<member name="T:secondDataBase.ProgsDataSet.程式DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:secondDataBase.ProgsDataSet.程式Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:secondDataBase.ProgsDataSet.程式RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:secondDataBase.ProgsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:secondDataBase.ProgsDataSetTableAdapters.程式TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:secondDataBase.ProgsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(secondDataBase.ProgsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:secondDataBase.ProgsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(secondDataBase.ProgsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:secondDataBase.ProgsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(secondDataBase.ProgsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:secondDataBase.ProgsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:secondDataBase.ProgsDataSetTableAdapters.TableAdapterManager.UpdateAll(secondDataBase.ProgsDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:secondDataBase.ProgsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:secondDataBase.ProgsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:secondDataBase.ProgsDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet.SearchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet.行程金額對照表DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet.SearchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet.行程金額對照表Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet.SearchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet.行程金額對照表RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSetTableAdapters.SearchTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSetTableAdapters.行程金額對照表TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(secondDataBase.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(secondDataBase.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(secondDataBase.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:secondDataBase.Database1DataSetTableAdapters.TableAdapterManager.UpdateAll(secondDataBase.Database1DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:secondDataBase.Database1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:secondDataBase.Database1DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet2.SearchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet2.SearchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet2.SearchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet2TableAdapters.SearchTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(secondDataBase.Database1DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(secondDataBase.Database1DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(secondDataBase.Database1DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:secondDataBase.Database1DataSet2TableAdapters.TableAdapterManager.UpdateAll(secondDataBase.Database1DataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:secondDataBase.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:secondDataBase.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:secondDataBase.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet1.SearchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet1.SearchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet1.SearchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet1TableAdapters.SearchTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(secondDataBase.Database1DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(secondDataBase.Database1DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(secondDataBase.Database1DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:secondDataBase.Database1DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:secondDataBase.Database1DataSet1TableAdapters.TableAdapterManager.UpdateAll(secondDataBase.Database1DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:secondDataBase.Database1DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

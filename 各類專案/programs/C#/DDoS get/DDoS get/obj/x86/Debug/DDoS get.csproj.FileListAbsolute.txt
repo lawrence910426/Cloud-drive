@@ -1,0 +1,14 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoS get\obj\x86\Debug\DDoS_get.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoS get\obj\x86\Debug\DDoS_get.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoS get\obj\x86\Debug\DDoS get.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoS get\bin\Debug\DDoS get.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoS get\bin\Debug\DDoS get.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoS get\obj\x86\Debug\DDoS get.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoS get\obj\x86\Debug\DDoS get.pdb
+D:\programs\C#\DDoS get\DDoS get\obj\x86\Debug\DDoS get.exe
+D:\programs\C#\DDoS get\DDoS get\obj\x86\Debug\DDoS get.pdb
+D:\programs\C#\DDoS get\DDoS get\bin\Debug\DDoS get.exe
+D:\programs\C#\DDoS get\DDoS get\bin\Debug\DDoS get.pdb
+D:\programs\C#\DDoS get\DDoS get\obj\x86\Debug\DDoS_get.Form1.resources
+D:\programs\C#\DDoS get\DDoS get\obj\x86\Debug\DDoS_get.Properties.Resources.resources
+D:\programs\C#\DDoS get\DDoS get\obj\x86\Debug\DDoS get.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\getPS\bin\Debug\getPS.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\getPS\bin\Debug\getPS.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\getPS\obj\x86\Debug\getPS.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\getPS\obj\x86\Debug\getPS.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\getPS\obj\x86\Debug\getPS.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\getPS\obj\x86\Debug\getPS.csproj.GenerateResource.Cache
+D:\C# Prog\getPS\getPS\obj\x86\Debug\getPS.exe
+D:\C# Prog\getPS\getPS\obj\x86\Debug\getPS.pdb

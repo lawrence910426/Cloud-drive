@@ -1,0 +1,3 @@
+D:\1+1\1+1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\1+1\1+1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\1+1\1+1\obj\x86\Debug\1+1.vbproj.GenerateResource.Cache

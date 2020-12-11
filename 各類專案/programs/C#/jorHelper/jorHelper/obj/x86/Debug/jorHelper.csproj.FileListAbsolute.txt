@@ -1,0 +1,14 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\jorHelper\bin\Debug\jorHelper.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\jorHelper\bin\Debug\jorHelper.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\jorHelper\obj\x86\Debug\jorHelper.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\jorHelper\obj\x86\Debug\jorHelper.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\jorHelper\obj\x86\Debug\jorHelper.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\jorHelper\obj\x86\Debug\jorHelper.csproj.GenerateResource.Cache
+D:\C# Prog\jorHelper\jorHelper\obj\x86\Debug\jorHelper.exe
+D:\C# Prog\jorHelper\jorHelper\obj\x86\Debug\jorHelper.pdb
+D:\C# Prog\jorHelper\jorHelper\bin\Debug\jorHelper.exe
+D:\C# Prog\jorHelper\jorHelper\bin\Debug\jorHelper.pdb
+D:\C# Prog\jorHelper\jorHelper\obj\x86\Debug\jorHelper.Form1.resources
+D:\C# Prog\jorHelper\jorHelper\obj\x86\Debug\jorHelper.csproj.GenerateResource.Cache
+D:\programs\C#\jorHelper\jorHelper\obj\x86\Debug\jorHelper.exe
+D:\programs\C#\jorHelper\jorHelper\obj\x86\Debug\jorHelper.pdb

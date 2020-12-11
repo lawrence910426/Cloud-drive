@@ -1,0 +1,14 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\MyWormI\bin\Debug\MyWormI.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\MyWormI\bin\Debug\MyWormI.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\MyWormI\obj\x86\Debug\MyWormI.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\MyWormI\obj\x86\Debug\MyWormI.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\MyWormI\obj\x86\Debug\MyWormI.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\MyWormI\obj\x86\Debug\MyWormI.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\MyWormI\obj\x86\Debug\MyWormI.Form1.resources
+D:\programs\C#\MyWormI\MyWormI\bin\Debug\MyWormI.exe
+D:\programs\C#\MyWormI\MyWormI\bin\Debug\MyWormI.pdb
+D:\programs\C#\MyWormI\MyWormI\obj\x86\Debug\MyWormI.Form1.resources
+D:\programs\C#\MyWormI\MyWormI\obj\x86\Debug\MyWormI.Properties.Resources.resources
+D:\programs\C#\MyWormI\MyWormI\obj\x86\Debug\MyWormI.csproj.GenerateResource.Cache
+D:\programs\C#\MyWormI\MyWormI\obj\x86\Debug\MyWormI.exe
+D:\programs\C#\MyWormI\MyWormI\obj\x86\Debug\MyWormI.pdb

@@ -1,0 +1,9 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\txtToBmp\obj\x86\Debug\txtToBmp.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\txtToBmp\obj\x86\Debug\txtToBmp.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\txtToBmp\obj\x86\Debug\txtToBmp.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\txtToBmp\bin\Debug\txtToBmp.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\txtToBmp\bin\Debug\txtToBmp.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\txtToBmp\obj\x86\Debug\txtToBmp.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\txtToBmp\obj\x86\Debug\txtToBmp.pdb
+D:\programs\C#\txtToBmp\txtToBmp\obj\x86\Debug\txtToBmp.exe
+D:\programs\C#\txtToBmp\txtToBmp\obj\x86\Debug\txtToBmp.pdb

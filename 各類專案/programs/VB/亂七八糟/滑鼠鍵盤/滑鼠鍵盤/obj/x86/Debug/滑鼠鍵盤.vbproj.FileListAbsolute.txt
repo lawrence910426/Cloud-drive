@@ -1,0 +1,13 @@
+D:\滑鼠鍵盤\滑鼠鍵盤\bin\Debug\滑鼠鍵盤.exe
+D:\滑鼠鍵盤\滑鼠鍵盤\bin\Debug\滑鼠鍵盤.pdb
+D:\滑鼠鍵盤\滑鼠鍵盤\bin\Debug\滑鼠鍵盤.xml
+D:\滑鼠鍵盤\滑鼠鍵盤\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\滑鼠鍵盤\滑鼠鍵盤\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\滑鼠鍵盤\滑鼠鍵盤\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\滑鼠鍵盤\滑鼠鍵盤\obj\x86\Debug\滑鼠鍵盤.vbproj.GenerateResource.Cache
+D:\滑鼠鍵盤\滑鼠鍵盤\obj\x86\Debug\滑鼠鍵盤.exe
+D:\滑鼠鍵盤\滑鼠鍵盤\obj\x86\Debug\滑鼠鍵盤.xml
+D:\滑鼠鍵盤\滑鼠鍵盤\obj\x86\Debug\滑鼠鍵盤.pdb
+D:\滑鼠鍵盤\滑鼠鍵盤\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\滑鼠鍵盤\滑鼠鍵盤\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\滑鼠鍵盤\滑鼠鍵盤\obj\x86\Debug\WindowsApplication1.Form5.resources

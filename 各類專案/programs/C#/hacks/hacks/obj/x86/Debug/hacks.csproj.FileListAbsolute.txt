@@ -1,0 +1,15 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\hacks\bin\Debug\hacks.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\hacks\bin\Debug\hacks.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\hacks\obj\x86\Debug\hacks.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\hacks\obj\x86\Debug\hacks.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\hacks\obj\x86\Debug\hacks.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\hacks\obj\x86\Debug\hacks.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\hacks\obj\x86\Debug\hacks.pdb
+D:\programs\C#\hacks\hacks\obj\x86\Debug\hacks.exe
+D:\programs\C#\hacks\hacks\obj\x86\Debug\hacks.pdb
+D:\programs\C#\hacks\hacks\bin\Debug\hacks.exe
+D:\programs\C#\hacks\hacks\bin\Debug\hacks.pdb
+D:\programs\C#\hacks\hacks\obj\x86\Debug\hacks.Form1.resources
+D:\programs\C#\hacks\hacks\obj\x86\Debug\hacks.Properties.Resources.resources
+D:\programs\C#\hacks\hacks\obj\x86\Debug\hacks.csproj.GenerateResource.Cache
+D:\programs\C#\hacks\hacks\obj\x86\Debug\hacks.csprojResolveAssemblyReference.cache

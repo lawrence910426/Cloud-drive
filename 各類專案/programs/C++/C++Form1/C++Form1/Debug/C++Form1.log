@@ -1,0 +1,21 @@
+﻿已經開始建置於 2014/6/12 下午 10:10:49。
+     1>節點 2 (build 目標) 上的專案 "D:\programs\C++\C++Form1\C++Form1\C++Form1.vcxproj"。
+     1>InitializeBuildStatus:
+         正在變更時間戳記 "Debug\C++Form1.unsuccessfulbuild"。
+       GenerateTargetFrameworkMonikerAttribute:
+       將略過目標 "GenerateTargetFrameworkMonikerAttribute"，因為所有輸出檔對於其輸入檔而言都已更新。
+       ClCompile:
+         所有輸出都是最新的。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\C++Form1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.VisualBasic.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\Microsoft.VisualBasic.PowerPacks.Vs.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt C++Form1.cpp /clr:nostdlib 
+         C++Form1.cpp
+     1>d:\programs\c++\c++form1\c++form1\Form1.h(169): warning C4200: 使用非標準的擴充 : 結構/等位中有大小為零的陣列
+                 當 UDT 包含大小為零的陣列時，無法產生 copy-ctor 或 copy-assignment 運算子
+     1>d:\programs\c++\c++form1\c++form1\Form1.h(170): error C2229: class 'CForm1::CBetterStreamReader' 擁有大小為零的不合法陣列
+     1>d:\programs\c++\c++form1\c++form1\Form1.h(170): warning C4200: 使用非標準的擴充 : 結構/等位中有大小為零的陣列
+                 當 UDT 包含大小為零的陣列時，無法產生 copy-ctor 或 copy-assignment 運算子
+     1>d:\programs\c++\c++form1\c++form1\Form1.h(179): warning C4244: '=' : 將 'wchar_t' 轉換為 'char'，由於型別不同，可能導致資料遺失
+     1>專案 "D:\programs\C++\C++Form1\C++Form1\C++Form1.vcxproj" (build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.31

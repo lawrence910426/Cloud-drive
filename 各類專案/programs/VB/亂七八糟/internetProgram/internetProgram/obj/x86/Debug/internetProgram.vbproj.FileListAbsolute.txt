@@ -1,0 +1,11 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\internetProgram\bin\Debug\internetProgram.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\internetProgram\bin\Debug\internetProgram.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\internetProgram\bin\Debug\internetProgram.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\internetProgram\obj\x86\Debug\internetProgram.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\internetProgram\obj\x86\Debug\internetProgram.vbproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\internetProgram\obj\x86\Debug\internetProgram.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\internetProgram\obj\x86\Debug\internetProgram.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\internetProgram\obj\x86\Debug\internetProgram.pdb
+D:\vb程式\internetProgram\internetProgram\obj\x86\Debug\internetProgram.exe
+D:\vb程式\internetProgram\internetProgram\obj\x86\Debug\internetProgram.xml
+D:\vb程式\internetProgram\internetProgram\obj\x86\Debug\internetProgram.pdb

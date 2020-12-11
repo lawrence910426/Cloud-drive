@@ -1,0 +1,65 @@
+﻿已經開始建置於 2014/6/7 下午 02:35:17。
+     1>節點 2 (build 目標) 上的專案 "D:\programs\C++\MFC\MFC\MFC.vcxproj"。
+     1>PrepareForBuild:
+         正在建立目錄 "D:\programs\C++\MFC\Debug\"。
+       InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\MFC.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\MFC.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MFC.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ChildFrm.cpp ClassView.cpp FileView.cpp MainFrm.cpp MFC.cpp MFCDoc.cpp MFCView.cpp OutputWnd.cpp PropertiesWnd.cpp ViewTree.cpp
+         ViewTree.cpp
+         PropertiesWnd.cpp
+         OutputWnd.cpp
+         MFCView.cpp
+         MFCDoc.cpp
+         MFC.cpp
+         MainFrm.cpp
+         FileView.cpp
+         ClassView.cpp
+         ChildFrm.cpp
+         正在產生程式碼...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0404" /IDebug\ /nologo /fo"Debug\MFC.res" MFC.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MFC.exe.embed.manifest.res" Debug\MFC_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\programs\C++\MFC\Debug\MFC.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MFC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\programs\C++\MFC\Debug\MFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\programs\C++\MFC\Debug\MFC.lib" /MACHINE:X86 Debug\MFC.res
+         Debug\MFC.exe.embed.manifest.res
+         Debug\ChildFrm.obj
+         Debug\ClassView.obj
+         Debug\FileView.obj
+         Debug\MainFrm.obj
+         Debug\MFC.obj
+         Debug\MFCDoc.obj
+         Debug\MFCView.obj
+         Debug\OutputWnd.obj
+         Debug\PropertiesWnd.obj
+         Debug\stdafx.obj
+         Debug\ViewTree.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MFC.exe.embed.manifest" /manifest Debug\MFC.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MFC.exe.embed.manifest.res" Debug\MFC_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\programs\C++\MFC\Debug\MFC.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MFC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\programs\C++\MFC\Debug\MFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\programs\C++\MFC\Debug\MFC.lib" /MACHINE:X86 Debug\MFC.res
+         Debug\MFC.exe.embed.manifest.res
+         Debug\ChildFrm.obj
+         Debug\ClassView.obj
+         Debug\FileView.obj
+         Debug\MainFrm.obj
+         Debug\MFC.obj
+         Debug\MFCDoc.obj
+         Debug\MFCView.obj
+         Debug\OutputWnd.obj
+         Debug\PropertiesWnd.obj
+         Debug\stdafx.obj
+         Debug\ViewTree.obj
+         MFC.vcxproj -> D:\programs\C++\MFC\Debug\MFC.exe
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\MFC.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\MFC.lastbuildstate"。
+     1>專案 "D:\programs\C++\MFC\MFC\MFC.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:24.65

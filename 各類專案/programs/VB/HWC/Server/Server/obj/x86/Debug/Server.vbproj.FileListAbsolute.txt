@@ -1,0 +1,9 @@
+D:\vb程式\HWC\Server\Server\bin\Debug\Server.exe
+D:\vb程式\HWC\Server\Server\bin\Debug\Server.pdb
+D:\vb程式\HWC\Server\Server\bin\Debug\Server.xml
+D:\vb程式\HWC\Server\Server\obj\x86\Debug\Server.Form1.resources
+D:\vb程式\HWC\Server\Server\obj\x86\Debug\Server.Resources.resources
+D:\vb程式\HWC\Server\Server\obj\x86\Debug\Server.vbproj.GenerateResource.Cache
+D:\vb程式\HWC\Server\Server\obj\x86\Debug\Server.exe
+D:\vb程式\HWC\Server\Server\obj\x86\Debug\Server.xml
+D:\vb程式\HWC\Server\Server\obj\x86\Debug\Server.pdb

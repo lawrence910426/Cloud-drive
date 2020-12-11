@@ -1,0 +1,9 @@
+D:\vb程式\Webbowser\Webbowser\bin\Debug\Webbowser.exe
+D:\vb程式\Webbowser\Webbowser\bin\Debug\Webbowser.pdb
+D:\vb程式\Webbowser\Webbowser\bin\Debug\Webbowser.xml
+D:\vb程式\Webbowser\Webbowser\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\vb程式\Webbowser\Webbowser\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\vb程式\Webbowser\Webbowser\obj\x86\Debug\Webbowser.vbproj.GenerateResource.Cache
+D:\vb程式\Webbowser\Webbowser\obj\x86\Debug\Webbowser.exe
+D:\vb程式\Webbowser\Webbowser\obj\x86\Debug\Webbowser.xml
+D:\vb程式\Webbowser\Webbowser\obj\x86\Debug\Webbowser.pdb

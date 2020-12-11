@@ -1,0 +1,12 @@
+﻿已經開始建置於 2013/12/21 下午 01:25:18。
+     1>節點 2 (build 目標) 上的專案 "D:\C++\habiru\habiru\habiru.vcxproj"。
+     1>PrepareForNMakeBuild:
+         正在建立目錄 "D:\C++\habiru\Debug\"。
+       PrepareForBuild:
+         正在建立目錄 "obj\Win32\Debug\"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.MakeFile.Targets(37,5): warning MSB8005: 屬性 'NMakeBuildCommandLine' 不存在。正在略過...
+     1>專案 "D:\C++\habiru\habiru\habiru.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:03.50

@@ -1,0 +1,11 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\chaos and fun\bin\Debug\chaos and fun.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\chaos and fun\bin\Debug\chaos and fun.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\chaos and fun\obj\x86\Debug\chaos and fun.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\chaos and fun\obj\x86\Debug\chaos and fun.pdb
+D:\C# Prog\chaos and fun\chaos and fun\obj\x86\Debug\chaos and fun.exe
+D:\C# Prog\chaos and fun\chaos and fun\obj\x86\Debug\chaos and fun.pdb
+D:\C# Prog\chaos and fun\chaos and fun\bin\Debug\chaos and fun.exe
+D:\C# Prog\chaos and fun\chaos and fun\bin\Debug\chaos and fun.pdb
+D:\C# Prog\chaos and fun\chaos and fun\obj\x86\Debug\chaos and fun.csprojResolveAssemblyReference.cache
+D:\C# Prog\chaos and fun\chaos and fun\obj\x86\Debug\chaos_and_fun.Form1.resources
+D:\C# Prog\chaos and fun\chaos and fun\obj\x86\Debug\chaos and fun.csproj.GenerateResource.Cache

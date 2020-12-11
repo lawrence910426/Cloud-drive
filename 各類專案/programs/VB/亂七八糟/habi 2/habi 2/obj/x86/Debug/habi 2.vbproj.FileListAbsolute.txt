@@ -1,0 +1,9 @@
+D:\habi 2\habi 2\bin\Debug\habi 2.exe
+D:\habi 2\habi 2\bin\Debug\habi 2.pdb
+D:\habi 2\habi 2\bin\Debug\habi 2.xml
+D:\habi 2\habi 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\habi 2\habi 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\habi 2\habi 2\obj\x86\Debug\habi 2.vbproj.GenerateResource.Cache
+D:\habi 2\habi 2\obj\x86\Debug\habi 2.exe
+D:\habi 2\habi 2\obj\x86\Debug\habi 2.xml
+D:\habi 2\habi 2\obj\x86\Debug\habi 2.pdb

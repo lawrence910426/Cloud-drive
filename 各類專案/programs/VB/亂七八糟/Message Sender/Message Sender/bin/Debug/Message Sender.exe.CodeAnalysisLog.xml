@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 10.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="10.0">
+ <Targets>
+  <Target Name="D:\vb程式\Message Sender\Message Sender\bin\Debug\Message Sender.exe">
+   <Modules>
+    <Module Name="message sender.exe">
+     <Namespaces>
+      <Namespace Name="WindowsApplication1">
+       <Types>
+        <Type Name="Form1" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.ButtonBase.set_Text(System.String)" TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2014-01-31 05:38:52Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="D:\vb程式\Message Sender\Message Sender" File="Form1.Designer.vb" Line="75">方法 'Form1.InitializeComponent()' 在呼叫 'ButtonBase.Text.Set(String)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "connect"。</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="D:\vb程式\Message Sender\Message Sender" File="Form1.Designer.vb" Line="58">方法 'Form1.InitializeComponent()' 在呼叫 'ButtonBase.Text.Set(String)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "send"。</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="D:\vb程式\Message Sender\Message Sender" File="Form1.Designer.vb" Line="118">方法 'Form1.InitializeComponent()' 在呼叫 'ButtonBase.Text.Set(String)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "start listen"。</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.Form.set_Text(System.String)" TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2014-01-31 05:38:52Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="D:\vb程式\Message Sender\Message Sender" File="Form1.Designer.vb" Line="145">方法 'Form1.InitializeComponent()' 在呼叫 'Form.Text.Set(String)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "Form1"。</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.Label.set_Text(System.String)" TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2014-01-31 05:38:52Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="D:\vb程式\Message Sender\Message Sender" File="Form1.Designer.vb" Line="110">方法 'Form1.InitializeComponent()' 在呼叫 'Label.Text.Set(String)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "msg"。</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="D:\vb程式\Message Sender\Message Sender" File="Form1.Designer.vb" Line="93">方法 'Form1.InitializeComponent()' 在呼叫 'Label.Text.Set(String)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "port"。</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.TextBox.set_Text(System.String)" TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2014-01-31 05:38:52Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="D:\vb程式\Message Sender\Message Sender" File="Form1.Designer.vb" Line="84">方法 'Form1.InitializeComponent()' 在呼叫 'TextBox.Text.Set(String)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "1"。</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="D:\vb程式\Message Sender\Message Sender" File="Form1.Designer.vb" Line="101">方法 'Form1.InitializeComponent()' 在呼叫 'TextBox.Text.Set(String)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "listenPort"。</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="D:\vb程式\Message Sender\Message Sender" File="Form1.Designer.vb" Line="50">方法 'Form1.InitializeComponent()' 在呼叫 'TextBox.Text.Set(String)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "msg"。</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="D:\vb程式\Message Sender\Message Sender" File="Form1.Designer.vb" Line="67">方法 'Form1.InitializeComponent()' 在呼叫 'TextBox.Text.Set(String)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "targetIP"。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303">
+   <Name>不要將常值當做已當地語系化的參數傳遞</Name>
+   <Description>內嵌在原始程式碼中的常值字串不容易本地語系化。請避免在一般需要本地語系化字串的情況傳遞常值字串做為引數。</Description>
+   <Resolution Name="KnownValue">方法 {0} 在呼叫 {2} 時傳遞常值字串做為參數 '{1}'。改為從資源表格擷取下列字串: {3}。</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182187(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="10.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">分類</String>
+  <String Key="Certainty">確實性</String>
+  <String Key="CollapseAll">全部摺疊</String>
+  <String Key="CheckId">檢查 ID</String>
+  <String Key="Error">錯誤</String>
+  <String Key="Errors">錯誤</String>
+  <String Key="ExpandAll">全部展開</String>
+  <String Key="Help">說明</String>
+  <String Key="Line">行</String>
+  <String Key="Messages">訊息</String>
+  <String Key="LocationNotStoredInPdb">[位置未儲存在 PDB]</String>
+  <String Key="Project">專案</String>
+  <String Key="Resolution">解析度</String>
+  <String Key="Rule">規則</String>
+  <String Key="RuleFile">規則檔</String>
+  <String Key="RuleDescription">規則描述</String>
+  <String Key="Source">來源</String>
+  <String Key="Status">狀態</String>
+  <String Key="Target">目標</String>
+  <String Key="Warning">警告</String>
+  <String Key="Warnings">警告</String>
+  <String Key="ReportTitle">程式碼分析報告</String>
+ </Localized>
+</FxCopReport>

@@ -1,0 +1,5 @@
+D:\programs\VirusTomLick\VirusTomLick\bin\Debug\VirusTomLick.exe
+D:\programs\VirusTomLick\VirusTomLick\bin\Debug\VirusTomLick.pdb
+D:\programs\VirusTomLick\VirusTomLick\obj\x86\Debug\VirusTomLick.csprojResolveAssemblyReference.cache
+D:\programs\VirusTomLick\VirusTomLick\obj\x86\Debug\VirusTomLick.exe
+D:\programs\VirusTomLick\VirusTomLick\obj\x86\Debug\VirusTomLick.pdb

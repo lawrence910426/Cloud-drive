@@ -1,0 +1,9 @@
+D:\TIMER\TIMER\bin\Debug\TIMER.exe
+D:\TIMER\TIMER\bin\Debug\TIMER.pdb
+D:\TIMER\TIMER\bin\Debug\TIMER.xml
+D:\TIMER\TIMER\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\TIMER\TIMER\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\TIMER\TIMER\obj\x86\Debug\TIMER.vbproj.GenerateResource.Cache
+D:\TIMER\TIMER\obj\x86\Debug\TIMER.exe
+D:\TIMER\TIMER\obj\x86\Debug\TIMER.xml
+D:\TIMER\TIMER\obj\x86\Debug\TIMER.pdb

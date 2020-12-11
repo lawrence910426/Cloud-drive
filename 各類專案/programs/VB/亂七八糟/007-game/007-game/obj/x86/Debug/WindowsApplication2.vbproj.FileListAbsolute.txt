@@ -1,0 +1,9 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb

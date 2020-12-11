@@ -1,0 +1,15 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\TCPconnect\obj\x86\Debug\TCPconnect.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\TCPconnect\obj\x86\Debug\TCPconnect.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\TCPconnect\obj\x86\Debug\TCPconnect.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\TCPconnect\bin\Debug\TCPconnect.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\TCPconnect\bin\Debug\TCPconnect.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\TCPconnect\obj\x86\Debug\TCPconnect.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\TCPconnect\obj\x86\Debug\TCPconnect.pdb
+D:\C# Prog\TCPconnect\TCPconnect\obj\x86\Debug\TCPconnect.exe
+D:\C# Prog\TCPconnect\TCPconnect\obj\x86\Debug\TCPconnect.pdb
+D:\C# Prog\TCPconnect\TCPconnect\bin\Debug\TCPconnect.exe
+D:\C# Prog\TCPconnect\TCPconnect\bin\Debug\TCPconnect.pdb
+D:\C# Prog\TCPconnect\TCPconnect\obj\x86\Debug\TCPconnect.Form1.resources
+D:\C# Prog\TCPconnect\TCPconnect\obj\x86\Debug\TCPconnect.Properties.Resources.resources
+D:\C# Prog\TCPconnect\TCPconnect\obj\x86\Debug\TCPconnect.csproj.GenerateResource.Cache
+D:\C# Prog\TCPconnect\TCPconnect\obj\x86\Debug\TCPconnect.csprojResolveAssemblyReference.cache

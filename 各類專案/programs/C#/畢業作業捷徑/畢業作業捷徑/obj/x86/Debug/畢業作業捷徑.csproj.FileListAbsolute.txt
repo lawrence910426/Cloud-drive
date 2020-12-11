@@ -1,0 +1,13 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\畢業作業捷徑\obj\x86\Debug\畢業作業捷徑.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\畢業作業捷徑\obj\x86\Debug\畢業作業捷徑.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\畢業作業捷徑\bin\Debug\畢業作業捷徑.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\畢業作業捷徑\bin\Debug\畢業作業捷徑.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\畢業作業捷徑\obj\x86\Debug\畢業作業捷徑.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\畢業作業捷徑\obj\x86\Debug\畢業作業捷徑.pdb
+D:\C# Prog\畢業作業捷徑\畢業作業捷徑\obj\x86\Debug\畢業作業捷徑.exe
+D:\C# Prog\畢業作業捷徑\畢業作業捷徑\obj\x86\Debug\畢業作業捷徑.pdb
+D:\C# Prog\畢業作業捷徑\畢業作業捷徑\obj\x86\Debug\畢業作業捷徑.Form1.resources
+D:\C# Prog\畢業作業捷徑\畢業作業捷徑\obj\x86\Debug\畢業作業捷徑.Properties.Resources.resources
+D:\C# Prog\畢業作業捷徑\畢業作業捷徑\obj\x86\Debug\畢業作業捷徑.csproj.GenerateResource.Cache
+D:\C# Prog\畢業作業捷徑\畢業作業捷徑\bin\Debug\畢業作業捷徑.exe
+D:\C# Prog\畢業作業捷徑\畢業作業捷徑\bin\Debug\畢業作業捷徑.pdb

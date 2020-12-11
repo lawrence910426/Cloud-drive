@@ -1,0 +1,7 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\溢出漏洞測試\bin\Debug\溢出漏洞測試.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\溢出漏洞測試\bin\Debug\溢出漏洞測試.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\溢出漏洞測試\obj\x86\Debug\溢出漏洞測試.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\溢出漏洞測試\obj\x86\Debug\溢出漏洞測試.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\溢出漏洞測試\obj\x86\Debug\溢出漏洞測試.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\溢出漏洞測試\obj\x86\Debug\溢出漏洞測試.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\溢出漏洞測試\obj\x86\Debug\溢出漏洞測試.pdb

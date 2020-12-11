@@ -1,0 +1,15 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\洛克人XX\bin\Debug\洛克人XX.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\洛克人XX\bin\Debug\洛克人XX.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\洛克人XX\obj\x86\Debug\洛克人XX.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\洛克人XX\obj\x86\Debug\洛克人XX.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\洛克人XX\obj\x86\Debug\洛克人XX.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\洛克人XX\obj\x86\Debug\洛克人XX.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\洛克人XX\obj\x86\Debug\洛克人XX.pdb
+D:\C# Prog\洛克人XX\洛克人XX\obj\x86\Debug\洛克人XX.exe
+D:\C# Prog\洛克人XX\洛克人XX\obj\x86\Debug\洛克人XX.pdb
+D:\C# Prog\洛克人XX\洛克人XX\bin\Debug\洛克人XX.exe
+D:\C# Prog\洛克人XX\洛克人XX\bin\Debug\洛克人XX.pdb
+D:\C# Prog\洛克人XX\洛克人XX\obj\x86\Debug\洛克人XX.Form1.resources
+D:\C# Prog\洛克人XX\洛克人XX\obj\x86\Debug\洛克人XX.Properties.Resources.resources
+D:\C# Prog\洛克人XX\洛克人XX\obj\x86\Debug\洛克人XX.csproj.GenerateResource.Cache
+D:\C# Prog\洛克人XX\洛克人XX\obj\x86\Debug\洛克人XX.csprojResolveAssemblyReference.cache

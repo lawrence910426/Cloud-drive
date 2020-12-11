@@ -1,0 +1,6 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\treatOrTrick\bin\Debug\treatOrTrick.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\treatOrTrick\bin\Debug\treatOrTrick.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\treatOrTrick\obj\x86\Debug\treatOrTrick.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\treatOrTrick\obj\x86\Debug\treatOrTrick.pdb
+D:\programs\C#\treatOrTrick\treatOrTrick\obj\x86\Debug\treatOrTrick.exe
+D:\programs\C#\treatOrTrick\treatOrTrick\obj\x86\Debug\treatOrTrick.pdb

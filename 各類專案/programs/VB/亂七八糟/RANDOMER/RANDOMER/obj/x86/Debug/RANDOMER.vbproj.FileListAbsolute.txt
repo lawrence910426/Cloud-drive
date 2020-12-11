@@ -1,0 +1,9 @@
+D:\vb程式\RANDOMER\RANDOMER\bin\Debug\RANDOMER.exe
+D:\vb程式\RANDOMER\RANDOMER\bin\Debug\RANDOMER.pdb
+D:\vb程式\RANDOMER\RANDOMER\bin\Debug\RANDOMER.xml
+D:\vb程式\RANDOMER\RANDOMER\obj\x86\Debug\RANDOMER.Form1.resources
+D:\vb程式\RANDOMER\RANDOMER\obj\x86\Debug\RANDOMER.Resources.resources
+D:\vb程式\RANDOMER\RANDOMER\obj\x86\Debug\RANDOMER.vbproj.GenerateResource.Cache
+D:\vb程式\RANDOMER\RANDOMER\obj\x86\Debug\RANDOMER.exe
+D:\vb程式\RANDOMER\RANDOMER\obj\x86\Debug\RANDOMER.xml
+D:\vb程式\RANDOMER\RANDOMER\obj\x86\Debug\RANDOMER.pdb

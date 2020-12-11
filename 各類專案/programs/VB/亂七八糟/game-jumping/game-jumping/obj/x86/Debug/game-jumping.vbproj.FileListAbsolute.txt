@@ -1,0 +1,10 @@
+D:\game-jumping\game-jumping\bin\Debug\game-jumping.exe
+D:\game-jumping\game-jumping\bin\Debug\game-jumping.pdb
+D:\game-jumping\game-jumping\bin\Debug\game-jumping.xml
+D:\game-jumping\game-jumping\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\game-jumping\game-jumping\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\game-jumping\game-jumping\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\game-jumping\game-jumping\obj\x86\Debug\game-jumping.vbproj.GenerateResource.Cache
+D:\game-jumping\game-jumping\obj\x86\Debug\game-jumping.exe
+D:\game-jumping\game-jumping\obj\x86\Debug\game-jumping.xml
+D:\game-jumping\game-jumping\obj\x86\Debug\game-jumping.pdb

@@ -1,0 +1,9 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\貪食蛇\bin\Debug\貪食蛇.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\貪食蛇\bin\Debug\貪食蛇.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\貪食蛇\obj\x86\Debug\貪食蛇.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\貪食蛇\obj\x86\Debug\貪食蛇.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\貪食蛇\obj\x86\Debug\貪食蛇.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\貪食蛇\obj\x86\Debug\貪食蛇.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\貪食蛇\obj\x86\Debug\貪食蛇.pdb
+D:\C# Prog\貪食蛇\貪食蛇\obj\x86\Debug\貪食蛇.exe
+D:\C# Prog\貪食蛇\貪食蛇\obj\x86\Debug\貪食蛇.pdb

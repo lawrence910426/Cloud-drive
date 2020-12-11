@@ -1,0 +1,18 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\vb_connect_usb\bin\Debug\vb_connect_usb.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\vb_connect_usb\bin\Debug\vb_connect_usb.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\vb_connect_usb\bin\Debug\vb_connect_usb.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\vb_connect_usb\obj\x86\Debug\vb_connect_usb.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\vb_connect_usb\obj\x86\Debug\vb_connect_usb.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\vb_connect_usb\obj\x86\Debug\vb_connect_usb.vbproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\vb_connect_usb\obj\x86\Debug\vb_connect_usb.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\vb_connect_usb\obj\x86\Debug\vb_connect_usb.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\vb_connect_usb\obj\x86\Debug\vb_connect_usb.pdb
+D:\vb程式\vb_connect_usb\vb_connect_usb\obj\x86\Debug\vb_connect_usb.exe
+D:\vb程式\vb_connect_usb\vb_connect_usb\obj\x86\Debug\vb_connect_usb.xml
+D:\vb程式\vb_connect_usb\vb_connect_usb\obj\x86\Debug\vb_connect_usb.pdb
+D:\vb程式\vb_connect_usb\vb_connect_usb\bin\Debug\vb_connect_usb.exe
+D:\vb程式\vb_connect_usb\vb_connect_usb\bin\Debug\vb_connect_usb.pdb
+D:\vb程式\vb_connect_usb\vb_connect_usb\bin\Debug\vb_connect_usb.xml
+D:\vb程式\vb_connect_usb\vb_connect_usb\obj\x86\Debug\vb_connect_usb.Form1.resources
+D:\vb程式\vb_connect_usb\vb_connect_usb\obj\x86\Debug\vb_connect_usb.Resources.resources
+D:\vb程式\vb_connect_usb\vb_connect_usb\obj\x86\Debug\vb_connect_usb.vbproj.GenerateResource.Cache

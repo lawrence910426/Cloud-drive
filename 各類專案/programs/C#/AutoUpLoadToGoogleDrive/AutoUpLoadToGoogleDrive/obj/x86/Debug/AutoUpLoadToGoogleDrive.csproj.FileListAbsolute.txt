@@ -1,0 +1,7 @@
+D:\C# Prog\AutoUpLoadToGoogleDrive\AutoUpLoadToGoogleDrive\bin\Debug\AutoUpLoadToGoogleDrive.exe
+D:\C# Prog\AutoUpLoadToGoogleDrive\AutoUpLoadToGoogleDrive\bin\Debug\AutoUpLoadToGoogleDrive.pdb
+D:\C# Prog\AutoUpLoadToGoogleDrive\AutoUpLoadToGoogleDrive\obj\x86\Debug\AutoUpLoadToGoogleDrive.Form1.resources
+D:\C# Prog\AutoUpLoadToGoogleDrive\AutoUpLoadToGoogleDrive\obj\x86\Debug\AutoUpLoadToGoogleDrive.Properties.Resources.resources
+D:\C# Prog\AutoUpLoadToGoogleDrive\AutoUpLoadToGoogleDrive\obj\x86\Debug\AutoUpLoadToGoogleDrive.csproj.GenerateResource.Cache
+D:\C# Prog\AutoUpLoadToGoogleDrive\AutoUpLoadToGoogleDrive\obj\x86\Debug\AutoUpLoadToGoogleDrive.exe
+D:\C# Prog\AutoUpLoadToGoogleDrive\AutoUpLoadToGoogleDrive\obj\x86\Debug\AutoUpLoadToGoogleDrive.pdb

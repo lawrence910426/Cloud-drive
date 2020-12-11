@@ -1,0 +1,9 @@
+D:\vb程式\flyGeuss\flyGeuss\bin\Debug\flyGeuss.exe
+D:\vb程式\flyGeuss\flyGeuss\bin\Debug\flyGeuss.pdb
+D:\vb程式\flyGeuss\flyGeuss\bin\Debug\flyGeuss.xml
+D:\vb程式\flyGeuss\flyGeuss\obj\x86\Debug\flyGeuss.Form1.resources
+D:\vb程式\flyGeuss\flyGeuss\obj\x86\Debug\flyGeuss.Resources.resources
+D:\vb程式\flyGeuss\flyGeuss\obj\x86\Debug\flyGeuss.vbproj.GenerateResource.Cache
+D:\vb程式\flyGeuss\flyGeuss\obj\x86\Debug\flyGeuss.exe
+D:\vb程式\flyGeuss\flyGeuss\obj\x86\Debug\flyGeuss.xml
+D:\vb程式\flyGeuss\flyGeuss\obj\x86\Debug\flyGeuss.pdb

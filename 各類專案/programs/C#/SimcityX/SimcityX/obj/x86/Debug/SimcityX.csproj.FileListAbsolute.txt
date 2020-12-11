@@ -1,0 +1,15 @@
+D:\vb程式\SimcityX\SimcityX\bin\Debug\SimcityX.exe
+D:\vb程式\SimcityX\SimcityX\bin\Debug\SimcityX.pdb
+D:\vb程式\SimcityX\SimcityX\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\vb程式\SimcityX\SimcityX\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\vb程式\SimcityX\SimcityX\obj\x86\Debug\SimcityX.csproj.GenerateResource.Cache
+D:\vb程式\SimcityX\SimcityX\obj\x86\Debug\SimcityX.exe
+D:\vb程式\SimcityX\SimcityX\obj\x86\Debug\SimcityX.pdb
+D:\C# Prog\SimcityX\SimcityX\obj\x86\Debug\SimcityX.exe
+D:\C# Prog\SimcityX\SimcityX\obj\x86\Debug\SimcityX.pdb
+D:\C# Prog\SimcityX\SimcityX\obj\x86\Debug\WindowsFormsApplication1.GameForm.resources
+D:\C# Prog\SimcityX\SimcityX\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C# Prog\SimcityX\SimcityX\obj\x86\Debug\SimcityX.csproj.GenerateResource.Cache
+D:\C# Prog\SimcityX\SimcityX\bin\Debug\SimcityX.exe
+D:\C# Prog\SimcityX\SimcityX\bin\Debug\SimcityX.pdb
+D:\C# Prog\SimcityX\SimcityX\obj\x86\Debug\SimcityX.csprojResolveAssemblyReference.cache

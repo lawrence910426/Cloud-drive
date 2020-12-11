@@ -1,0 +1,9 @@
+-add up £¹ and £º(pictures background in red)
+-for all the combinations of [£t to ££][£¹ £º].
+ we will make all the chinese charactors if it exists.
+ [14 * 2] = 28.
+-the last constant letter and the first vowel letter will make the chinese charactor.
+ ex.i ate £¹ (no constant letter. do not print out.)
+    i ate £t (waiting for the next vowel letter.)
+    i ate £u (change £t to £u)
+    i ate £¹ (cleanup the stack and print the chinese letter)

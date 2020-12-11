@@ -1,0 +1,12 @@
+D:\vb程式\secondDataBase\secondDataBase\bin\Debug\secondDataBase.exe.config
+D:\vb程式\secondDataBase\secondDataBase\bin\Debug\Database.accdb
+D:\vb程式\secondDataBase\secondDataBase\bin\Debug\Database1.accdb
+D:\vb程式\secondDataBase\secondDataBase\bin\Debug\secondDataBase.exe
+D:\vb程式\secondDataBase\secondDataBase\bin\Debug\secondDataBase.pdb
+D:\vb程式\secondDataBase\secondDataBase\bin\Debug\secondDataBase.xml
+D:\vb程式\secondDataBase\secondDataBase\obj\x86\Debug\secondDataBase.Form1.resources
+D:\vb程式\secondDataBase\secondDataBase\obj\x86\Debug\secondDataBase.Resources.resources
+D:\vb程式\secondDataBase\secondDataBase\obj\x86\Debug\secondDataBase.vbproj.GenerateResource.Cache
+D:\vb程式\secondDataBase\secondDataBase\obj\x86\Debug\secondDataBase.exe
+D:\vb程式\secondDataBase\secondDataBase\obj\x86\Debug\secondDataBase.xml
+D:\vb程式\secondDataBase\secondDataBase\obj\x86\Debug\secondDataBase.pdb

@@ -1,0 +1,15 @@
+D:\1+1\1+1\bin\Debug\1+1.exe
+D:\1+1\1+1\bin\Debug\1+1.pdb
+D:\1+1\1+1\bin\Debug\1+1.xml
+D:\1+1\1+1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\1+1\1+1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\1+1\1+1\obj\x86\Debug\1+1.vbproj.GenerateResource.Cache
+D:\1+1\1+1\obj\x86\Debug\1+1.exe
+D:\1+1\1+1\obj\x86\Debug\1+1.xml
+D:\1+1\1+1\obj\x86\Debug\1+1.pdb
+D:\1+1\1+1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\1+1\1+1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\1+1\1+1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\vb程式\1+1\1+1\obj\x86\Debug\1+1.exe
+D:\vb程式\1+1\1+1\obj\x86\Debug\1+1.xml
+D:\vb程式\1+1\1+1\obj\x86\Debug\1+1.pdb

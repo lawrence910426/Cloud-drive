@@ -1,0 +1,10 @@
+D:\0Prog\programs\C#\TalkToServer\TalkToServer\bin\Debug\TalkToServer.exe
+D:\0Prog\programs\C#\TalkToServer\TalkToServer\bin\Debug\TalkToServer.pdb
+D:\0Prog\programs\C#\TalkToServer\TalkToServer\obj\x86\Debug\TalkToServer.exe
+D:\0Prog\programs\C#\TalkToServer\TalkToServer\obj\x86\Debug\TalkToServer.pdb
+D:\0Prog\programs\C#\TalkToServer\TalkToServer\obj\x86\Debug\TalkToServer.csprojResolveAssemblyReference.cache
+D:\programs\C#\TalkToServer\TalkToServer\obj\x86\Debug\TalkToServer.exe
+D:\programs\C#\TalkToServer\TalkToServer\obj\x86\Debug\TalkToServer.pdb
+D:\programs\C#\TalkToServer\TalkToServer\bin\Debug\TalkToServer.exe
+D:\programs\C#\TalkToServer\TalkToServer\bin\Debug\TalkToServer.pdb
+D:\programs\C#\TalkToServer\TalkToServer\obj\x86\Debug\TalkToServer.csprojResolveAssemblyReference.cache

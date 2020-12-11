@@ -1,0 +1,8 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\tryServer\bin\Debug\tryServer.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\tryServer\bin\Debug\tryServer.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\tryServer\obj\x86\Debug\tryServer.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\tryServer\obj\x86\Debug\tryServer.pdb
+D:\C# Prog\tryServer\tryServer\obj\x86\Debug\tryServer.exe
+D:\C# Prog\tryServer\tryServer\obj\x86\Debug\tryServer.pdb
+D:\C# Prog\tryServer\tryServer\bin\Debug\tryServer.exe
+D:\C# Prog\tryServer\tryServer\bin\Debug\tryServer.pdb

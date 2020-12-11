@@ -1,0 +1,12 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\srcbuilder\bin\Debug\srcbuilder.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\srcbuilder\bin\Debug\srcbuilder.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\srcbuilder\obj\x86\Debug\srcbuilder.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\srcbuilder\obj\x86\Debug\srcbuilder.pdb
+D:\C# Prog\srcbuilder\srcbuilder\obj\x86\Debug\srcbuilder.exe
+D:\C# Prog\srcbuilder\srcbuilder\obj\x86\Debug\srcbuilder.pdb
+D:\C# Prog\srcbuilder\srcbuilder\bin\Debug\srcbuilder.exe
+D:\C# Prog\srcbuilder\srcbuilder\bin\Debug\srcbuilder.pdb
+D:\programs\C#\srcbuilder\srcbuilder\obj\x86\Debug\srcbuilder.exe
+D:\programs\C#\srcbuilder\srcbuilder\obj\x86\Debug\srcbuilder.pdb
+D:\programs\C#\srcbuilder\srcbuilder\bin\Debug\srcbuilder.exe
+D:\programs\C#\srcbuilder\srcbuilder\bin\Debug\srcbuilder.pdb

@@ -1,0 +1,16 @@
+﻿已經開始建置於 2014/4/6 下午 07:03:39。
+     1>節點 2 (build 目標) 上的專案 "D:\0Prog\programs\C++\learnCpp\learnCpp\learnCpp.vcxproj"。
+     1>InitializeBuildStatus:
+         正在變更時間戳記 "Debug\learnCpp.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\learnCpp.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt learnCpp.cpp
+         learnCpp.cpp
+     1>d:\0prog\programs\c++\learncpp\learncpp\learncpp.cpp(5): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+     1>d:\0prog\programs\c++\learncpp\learncpp\learncpp.cpp(101): error C2440: '型別轉換' : 無法由 'std::string' 轉換為 'int'
+                 沒有可以執行此轉換的使用者定義轉換運算子或無法呼叫運算子
+     1>專案 "D:\0Prog\programs\C++\learnCpp\learnCpp\learnCpp.vcxproj" (build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.66

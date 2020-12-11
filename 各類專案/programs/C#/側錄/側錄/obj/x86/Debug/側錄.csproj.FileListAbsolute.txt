@@ -1,0 +1,9 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\側錄\bin\Debug\側錄.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\側錄\bin\Debug\側錄.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\側錄\obj\x86\Debug\側錄.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\側錄\obj\x86\Debug\側錄.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\側錄\obj\x86\Debug\側錄.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\側錄\obj\x86\Debug\側錄.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\側錄\obj\x86\Debug\側錄.pdb
+D:\programs\C#\側錄\側錄\obj\x86\Debug\側錄.exe
+D:\programs\C#\側錄\側錄\obj\x86\Debug\側錄.pdb

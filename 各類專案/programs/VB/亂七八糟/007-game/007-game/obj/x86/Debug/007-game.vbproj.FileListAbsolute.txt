@@ -1,0 +1,12 @@
+D:\007-game\007-game\bin\Debug\007-game.exe
+D:\007-game\007-game\bin\Debug\007-game.pdb
+D:\007-game\007-game\bin\Debug\007-game.xml
+D:\007-game\007-game\obj\x86\Debug\WindowsApplication2.Form1.resources
+D:\007-game\007-game\obj\x86\Debug\WindowsApplication2.Resources.resources
+D:\007-game\007-game\obj\x86\Debug\007-game.vbproj.GenerateResource.Cache
+D:\007-game\007-game\obj\x86\Debug\007-game.exe
+D:\007-game\007-game\obj\x86\Debug\007-game.xml
+D:\007-game\007-game\obj\x86\Debug\007-game.pdb
+D:\vb程式\007-game\007-game\obj\x86\Debug\007-game.exe
+D:\vb程式\007-game\007-game\obj\x86\Debug\007-game.xml
+D:\vb程式\007-game\007-game\obj\x86\Debug\007-game.pdb

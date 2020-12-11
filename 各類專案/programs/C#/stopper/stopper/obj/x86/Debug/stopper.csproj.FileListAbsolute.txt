@@ -1,0 +1,7 @@
+D:\C# Prog\stopper\stopper\bin\Debug\stopper.exe
+D:\C# Prog\stopper\stopper\bin\Debug\stopper.pdb
+D:\C# Prog\stopper\stopper\obj\x86\Debug\stopper.Form1.resources
+D:\C# Prog\stopper\stopper\obj\x86\Debug\stopper.Properties.Resources.resources
+D:\C# Prog\stopper\stopper\obj\x86\Debug\stopper.csproj.GenerateResource.Cache
+D:\C# Prog\stopper\stopper\obj\x86\Debug\stopper.exe
+D:\C# Prog\stopper\stopper\obj\x86\Debug\stopper.pdb

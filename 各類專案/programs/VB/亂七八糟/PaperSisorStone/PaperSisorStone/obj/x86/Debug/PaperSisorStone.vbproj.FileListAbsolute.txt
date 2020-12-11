@@ -1,0 +1,13 @@
+D:\vb程式\PaperSisorStone\PaperSisorStone\bin\Debug\PaperSisorStone.exe
+D:\vb程式\PaperSisorStone\PaperSisorStone\bin\Debug\PaperSisorStone.pdb
+D:\vb程式\PaperSisorStone\PaperSisorStone\bin\Debug\PaperSisorStone.xml
+D:\vb程式\PaperSisorStone\PaperSisorStone\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\vb程式\PaperSisorStone\PaperSisorStone\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\vb程式\PaperSisorStone\PaperSisorStone\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\vb程式\PaperSisorStone\PaperSisorStone\obj\x86\Debug\PaperSisorStone.vbproj.GenerateResource.Cache
+D:\vb程式\PaperSisorStone\PaperSisorStone\obj\x86\Debug\PaperSisorStone.exe
+D:\vb程式\PaperSisorStone\PaperSisorStone\obj\x86\Debug\PaperSisorStone.xml
+D:\vb程式\PaperSisorStone\PaperSisorStone\obj\x86\Debug\PaperSisorStone.pdb
+D:\vb程式\PaperSisorStone\PaperSisorStone\bin\Debug\吳邦寧.accdb
+D:\vb程式\PaperSisorStone\PaperSisorStone\bin\Debug\PaperSisorStone.exe.config
+D:\vb程式\PaperSisorStone\PaperSisorStone\obj\x86\Debug\WindowsApplication1.Form3.resources

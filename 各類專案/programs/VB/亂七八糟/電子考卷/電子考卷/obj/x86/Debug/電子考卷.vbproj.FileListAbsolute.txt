@@ -1,0 +1,11 @@
+D:\電子考卷\電子考卷\bin\Debug\電子考卷.exe
+D:\電子考卷\電子考卷\bin\Debug\電子考卷.pdb
+D:\電子考卷\電子考卷\bin\Debug\電子考卷.xml
+D:\電子考卷\電子考卷\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\電子考卷\電子考卷\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\電子考卷\電子考卷\obj\x86\Debug\電子考卷.vbproj.GenerateResource.Cache
+D:\電子考卷\電子考卷\obj\x86\Debug\電子考卷.exe
+D:\電子考卷\電子考卷\obj\x86\Debug\電子考卷.xml
+D:\電子考卷\電子考卷\obj\x86\Debug\電子考卷.pdb
+D:\電子考卷\電子考卷\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\電子考卷\電子考卷\obj\x86\Debug\WindowsApplication1.Form4.resources

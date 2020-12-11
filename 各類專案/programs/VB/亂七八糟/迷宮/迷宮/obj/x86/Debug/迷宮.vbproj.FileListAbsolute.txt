@@ -1,0 +1,9 @@
+D:\vb程式\迷宮\迷宮\bin\Debug\迷宮.exe
+D:\vb程式\迷宮\迷宮\bin\Debug\迷宮.pdb
+D:\vb程式\迷宮\迷宮\bin\Debug\迷宮.xml
+D:\vb程式\迷宮\迷宮\obj\x86\Debug\迷宮.Form1.resources
+D:\vb程式\迷宮\迷宮\obj\x86\Debug\迷宮.Resources.resources
+D:\vb程式\迷宮\迷宮\obj\x86\Debug\迷宮.vbproj.GenerateResource.Cache
+D:\vb程式\迷宮\迷宮\obj\x86\Debug\迷宮.exe
+D:\vb程式\迷宮\迷宮\obj\x86\Debug\迷宮.xml
+D:\vb程式\迷宮\迷宮\obj\x86\Debug\迷宮.pdb

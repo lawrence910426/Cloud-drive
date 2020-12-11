@@ -1,0 +1,36 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoSAtk\bin\Debug\DDoSAtk.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoSAtk\bin\Debug\DDoSAtk.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoSAtk\obj\x86\Debug\DDoSAtk.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoSAtk\obj\x86\Debug\DDoSAtk.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoSAtk\obj\x86\Debug\DDoSAtk.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoSAtk\obj\x86\Debug\DDoSAtk.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\DDoSAtk\obj\x86\Debug\DDoSAtk.pdb
+D:\C# Prog\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.exe
+D:\C# Prog\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.pdb
+D:\C# Prog\DDoSAtk\DDoSAtk\bin\Debug\DDoSAtk.exe
+D:\C# Prog\DDoSAtk\DDoSAtk\bin\Debug\DDoSAtk.pdb
+D:\C# Prog\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.Form1.resources
+D:\C# Prog\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.Properties.Resources.resources
+D:\C# Prog\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.csproj.GenerateResource.Cache
+D:\C# Prog\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.website.resources
+D:\C# Prog\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.csprojResolveAssemblyReference.cache
+D:\0Prog\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.exe
+D:\0Prog\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.pdb
+D:\0Prog\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.csprojResolveAssemblyReference.cache
+D:\0Prog\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.attackForm.resources
+D:\0Prog\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.Form1.resources
+D:\0Prog\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.Properties.Resources.resources
+D:\0Prog\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.website.resources
+D:\0Prog\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.csproj.GenerateResource.Cache
+D:\0Prog\programs\C#\DDoSAtk\DDoSAtk\bin\Debug\DDoSAtk.exe
+D:\0Prog\programs\C#\DDoSAtk\DDoSAtk\bin\Debug\DDoSAtk.pdb
+D:\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.exe
+D:\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.pdb
+D:\programs\C#\DDoSAtk\DDoSAtk\bin\Debug\DDoSAtk.exe
+D:\programs\C#\DDoSAtk\DDoSAtk\bin\Debug\DDoSAtk.pdb
+D:\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.csprojResolveAssemblyReference.cache
+D:\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.attackForm.resources
+D:\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.Form1.resources
+D:\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.Properties.Resources.resources
+D:\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.website.resources
+D:\programs\C#\DDoSAtk\DDoSAtk\obj\x86\Debug\DDoSAtk.csproj.GenerateResource.Cache

@@ -1,0 +1,15 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\D D o S\bin\Debug\D D o S.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\D D o S\bin\Debug\D D o S.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\D D o S\obj\x86\Debug\D_D_o_S.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\D D o S\obj\x86\Debug\D_D_o_S.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\D D o S\obj\x86\Debug\D D o S.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\D D o S\obj\x86\Debug\D D o S.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\D D o S\obj\x86\Debug\D D o S.pdb
+D:\programs\C#\D D o S\D D o S\obj\x86\Debug\D D o S.exe
+D:\programs\C#\D D o S\D D o S\obj\x86\Debug\D D o S.pdb
+D:\programs\C#\D D o S\D D o S\bin\Debug\D D o S.exe
+D:\programs\C#\D D o S\D D o S\bin\Debug\D D o S.pdb
+D:\programs\C#\D D o S\D D o S\obj\x86\Debug\D_D_o_S.Form1.resources
+D:\programs\C#\D D o S\D D o S\obj\x86\Debug\D_D_o_S.Properties.Resources.resources
+D:\programs\C#\D D o S\D D o S\obj\x86\Debug\D D o S.csproj.GenerateResource.Cache
+D:\programs\C#\D D o S\D D o S\obj\x86\Debug\D D o S.csprojResolveAssemblyReference.cache

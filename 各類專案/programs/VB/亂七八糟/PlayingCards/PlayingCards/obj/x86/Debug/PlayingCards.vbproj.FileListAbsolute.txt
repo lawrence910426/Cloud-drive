@@ -1,0 +1,9 @@
+D:\vb程式\PlayingCards\PlayingCards\bin\Debug\PlayingCards.exe
+D:\vb程式\PlayingCards\PlayingCards\bin\Debug\PlayingCards.pdb
+D:\vb程式\PlayingCards\PlayingCards\bin\Debug\PlayingCards.xml
+D:\vb程式\PlayingCards\PlayingCards\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\vb程式\PlayingCards\PlayingCards\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\vb程式\PlayingCards\PlayingCards\obj\x86\Debug\PlayingCards.vbproj.GenerateResource.Cache
+D:\vb程式\PlayingCards\PlayingCards\obj\x86\Debug\PlayingCards.exe
+D:\vb程式\PlayingCards\PlayingCards\obj\x86\Debug\PlayingCards.xml
+D:\vb程式\PlayingCards\PlayingCards\obj\x86\Debug\PlayingCards.pdb

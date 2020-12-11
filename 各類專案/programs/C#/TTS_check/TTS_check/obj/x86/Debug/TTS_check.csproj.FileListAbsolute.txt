@@ -1,0 +1,6 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\TTS_check\bin\Debug\TTS_check.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\TTS_check\bin\Debug\TTS_check.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\TTS_check\obj\x86\Debug\TTS_check.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\TTS_check\obj\x86\Debug\TTS_check.pdb
+D:\0Prog\programs\C#\TTS_check\TTS_check\obj\x86\Debug\TTS_check.exe
+D:\0Prog\programs\C#\TTS_check\TTS_check\obj\x86\Debug\TTS_check.pdb

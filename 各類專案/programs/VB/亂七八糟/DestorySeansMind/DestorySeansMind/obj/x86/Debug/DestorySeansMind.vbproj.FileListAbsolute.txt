@@ -1,0 +1,18 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\DestorySeansMind\obj\x86\Debug\DestorySeansMind.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\DestorySeansMind\obj\x86\Debug\DestorySeansMind.vbproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\DestorySeansMind\bin\Debug\DestorySeansMind.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\DestorySeansMind\bin\Debug\DestorySeansMind.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\DestorySeansMind\bin\Debug\DestorySeansMind.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\DestorySeansMind\obj\x86\Debug\DestorySeansMind.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\DestorySeansMind\obj\x86\Debug\DestorySeansMind.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\DestorySeansMind\obj\x86\Debug\DestorySeansMind.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\DestorySeansMind\obj\x86\Debug\DestorySeansMind.pdb
+D:\programs\vb\亂七八糟\DestorySeansMind\DestorySeansMind\obj\x86\Debug\DestorySeansMind.exe
+D:\programs\vb\亂七八糟\DestorySeansMind\DestorySeansMind\obj\x86\Debug\DestorySeansMind.xml
+D:\programs\vb\亂七八糟\DestorySeansMind\DestorySeansMind\obj\x86\Debug\DestorySeansMind.pdb
+D:\programs\vb\亂七八糟\DestorySeansMind\DestorySeansMind\bin\Debug\DestorySeansMind.exe
+D:\programs\vb\亂七八糟\DestorySeansMind\DestorySeansMind\bin\Debug\DestorySeansMind.pdb
+D:\programs\vb\亂七八糟\DestorySeansMind\DestorySeansMind\bin\Debug\DestorySeansMind.xml
+D:\programs\vb\亂七八糟\DestorySeansMind\DestorySeansMind\obj\x86\Debug\DestorySeansMind.Form1.resources
+D:\programs\vb\亂七八糟\DestorySeansMind\DestorySeansMind\obj\x86\Debug\DestorySeansMind.Resources.resources
+D:\programs\vb\亂七八糟\DestorySeansMind\DestorySeansMind\obj\x86\Debug\DestorySeansMind.vbproj.GenerateResource.Cache

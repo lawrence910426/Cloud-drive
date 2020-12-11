@@ -1,0 +1,9 @@
+D:\vb程式\Clear\Clear\bin\Debug\Clear.exe
+D:\vb程式\Clear\Clear\bin\Debug\Clear.pdb
+D:\vb程式\Clear\Clear\bin\Debug\Clear.xml
+D:\vb程式\Clear\Clear\obj\x86\Debug\Clear.Form1.resources
+D:\vb程式\Clear\Clear\obj\x86\Debug\Clear.Resources.resources
+D:\vb程式\Clear\Clear\obj\x86\Debug\Clear.vbproj.GenerateResource.Cache
+D:\vb程式\Clear\Clear\obj\x86\Debug\Clear.exe
+D:\vb程式\Clear\Clear\obj\x86\Debug\Clear.xml
+D:\vb程式\Clear\Clear\obj\x86\Debug\Clear.pdb

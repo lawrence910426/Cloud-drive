@@ -1,0 +1,28 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Database1.sdf
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\vb程式\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\vb程式\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\vb程式\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\vb程式\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\vb程式\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\vb程式\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\vb程式\WindowsApplication1\WindowsApplication1\bin\Debug\Database1.sdf
+D:\vb程式\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\vb程式\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\vb程式\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\vb程式\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\vb程式\WindowsApplication1\WindowsApplication1\bin\Debug\Database1.accdb
+D:\vb程式\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\vb程式\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\programs\VB\亂七八糟\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\programs\VB\亂七八糟\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\programs\VB\亂七八糟\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\programs\VB\亂七八糟\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

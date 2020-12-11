@@ -1,0 +1,15 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\hackllps\bin\Debug\hackllps.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\hackllps\bin\Debug\hackllps.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\hackllps\obj\x86\Debug\hackllps.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\hackllps\obj\x86\Debug\hackllps.Properties.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\hackllps\obj\x86\Debug\hackllps.csproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\hackllps\obj\x86\Debug\hackllps.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\hackllps\obj\x86\Debug\hackllps.pdb
+D:\programs\C#\hackllps\hackllps\obj\x86\Debug\hackllps.exe
+D:\programs\C#\hackllps\hackllps\obj\x86\Debug\hackllps.pdb
+D:\programs\C#\hackllps\hackllps\bin\Debug\hackllps.exe
+D:\programs\C#\hackllps\hackllps\bin\Debug\hackllps.pdb
+D:\programs\C#\hackllps\hackllps\obj\x86\Debug\hackllps.Form1.resources
+D:\programs\C#\hackllps\hackllps\obj\x86\Debug\hackllps.Properties.Resources.resources
+D:\programs\C#\hackllps\hackllps\obj\x86\Debug\hackllps.csproj.GenerateResource.Cache
+D:\programs\C#\hackllps\hackllps\obj\x86\Debug\hackllps.csprojResolveAssemblyReference.cache

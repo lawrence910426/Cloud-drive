@@ -1,0 +1,18 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\5子棋\bin\Debug\5子棋.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\5子棋\bin\Debug\5子棋.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\5子棋\bin\Debug\5子棋.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\5子棋\obj\x86\Debug\_5子棋.Form1.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\5子棋\obj\x86\Debug\_5子棋.Resources.resources
+C:\Users\lawrence\AppData\Local\Temporary Projects\5子棋\obj\x86\Debug\5子棋.vbproj.GenerateResource.Cache
+C:\Users\lawrence\AppData\Local\Temporary Projects\5子棋\obj\x86\Debug\5子棋.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\5子棋\obj\x86\Debug\5子棋.xml
+C:\Users\lawrence\AppData\Local\Temporary Projects\5子棋\obj\x86\Debug\5子棋.pdb
+D:\vb程式\5子棋\5子棋\obj\x86\Debug\5子棋.exe
+D:\vb程式\5子棋\5子棋\obj\x86\Debug\5子棋.xml
+D:\vb程式\5子棋\5子棋\obj\x86\Debug\5子棋.pdb
+D:\vb程式\5子棋\5子棋\obj\x86\Debug\_5子棋.Form1.resources
+D:\vb程式\5子棋\5子棋\obj\x86\Debug\_5子棋.Resources.resources
+D:\vb程式\5子棋\5子棋\obj\x86\Debug\5子棋.vbproj.GenerateResource.Cache
+D:\vb程式\5子棋\5子棋\bin\Debug\5子棋.exe
+D:\vb程式\5子棋\5子棋\bin\Debug\5子棋.pdb
+D:\vb程式\5子棋\5子棋\bin\Debug\5子棋.xml

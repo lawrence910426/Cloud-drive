@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX 結構描述
+    
+    2.0 版
+    
+    這種格式的主要目的是要提供大致上清楚易懂的
+    簡單 XML 格式。各種資料型別的產生和剖析是
+    透過與該資料型別相關聯的 TypeConverter 類別
+    來完成。
+    
+    範例:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime編碼的序列化 .NET Framework 物件]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime編碼字串，代表 .NET Framework 物件的位元組陣列格式]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    "resheader" 列可以有任意個，其中包含簡單的
+    name/value組。
+    
+    每個資料列包含名稱和值，另外還包含
+    type 或 mimetype。Type 對應到可透過 TypeConverter 架構
+    支援 text/value 轉換的 .NET 類別。
+    不支援這項功能的類別則會序列化，並以
+    mimetype 集儲存。
+    
+    mimetype 是用於序列化的物件，以告知
+    ResXResourceReader 如何取消保存該物件。目前這一點
+    無法擴充。值必須根據其 mimetype 適當設定:
+    
+    注意 - application/x-microsoft.net.object.binary.base64 是 ResXResourceWriter
+    將產生的格式，但讀取器可
+    讀取下列任一種格式。
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : 物件必須用 
+            : System.Serialization.Formatters.Binary.BinaryFormatter
+            : 序列化，然後用 base64 編碼進行編碼。
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : 物件必須用 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : 序列化，然後用 base64 編碼進行編碼。
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : 物件必須使用 
+            : System.ComponentModel.TypeConverter序列化
+            : 成位元組陣列，然後用 base64 編碼進行編碼。
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+</root>

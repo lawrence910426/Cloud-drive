@@ -1,0 +1,9 @@
+D:\vb程式\Newton's_Think-objFly\Newton's_Think-objFly\bin\Debug\Newton's_Think-objFly.exe
+D:\vb程式\Newton's_Think-objFly\Newton's_Think-objFly\bin\Debug\Newton's_Think-objFly.pdb
+D:\vb程式\Newton's_Think-objFly\Newton's_Think-objFly\bin\Debug\Newton's_Think-objFly.xml
+D:\vb程式\Newton's_Think-objFly\Newton's_Think-objFly\obj\x86\Debug\Newton_s_Think_objFly.Form1.resources
+D:\vb程式\Newton's_Think-objFly\Newton's_Think-objFly\obj\x86\Debug\Newton_s_Think_objFly.Resources.resources
+D:\vb程式\Newton's_Think-objFly\Newton's_Think-objFly\obj\x86\Debug\Newton's_Think-objFly.vbproj.GenerateResource.Cache
+D:\vb程式\Newton's_Think-objFly\Newton's_Think-objFly\obj\x86\Debug\Newton's_Think-objFly.exe
+D:\vb程式\Newton's_Think-objFly\Newton's_Think-objFly\obj\x86\Debug\Newton's_Think-objFly.xml
+D:\vb程式\Newton's_Think-objFly\Newton's_Think-objFly\obj\x86\Debug\Newton's_Think-objFly.pdb

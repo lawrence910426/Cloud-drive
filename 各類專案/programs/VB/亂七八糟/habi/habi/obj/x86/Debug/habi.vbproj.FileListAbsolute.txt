@@ -1,0 +1,12 @@
+D:\habi\habi\bin\Debug\habi.exe
+D:\habi\habi\bin\Debug\habi.pdb
+D:\habi\habi\bin\Debug\habi.xml
+D:\habi\habi\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\habi\habi\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\habi\habi\obj\x86\Debug\habi.vbproj.GenerateResource.Cache
+D:\habi\habi\obj\x86\Debug\habi.exe
+D:\habi\habi\obj\x86\Debug\habi.xml
+D:\habi\habi\obj\x86\Debug\habi.pdb
+D:\programs\VB\亂七八糟\habi\habi\obj\x86\Debug\habi.exe
+D:\programs\VB\亂七八糟\habi\habi\obj\x86\Debug\habi.xml
+D:\programs\VB\亂七八糟\habi\habi\obj\x86\Debug\habi.pdb

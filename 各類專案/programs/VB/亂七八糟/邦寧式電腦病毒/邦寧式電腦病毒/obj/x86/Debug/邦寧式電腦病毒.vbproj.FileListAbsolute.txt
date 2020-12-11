@@ -1,0 +1,9 @@
+D:\邦寧式電腦病毒\邦寧式電腦病毒\bin\Debug\邦寧式電腦病毒.exe
+D:\邦寧式電腦病毒\邦寧式電腦病毒\bin\Debug\邦寧式電腦病毒.pdb
+D:\邦寧式電腦病毒\邦寧式電腦病毒\bin\Debug\邦寧式電腦病毒.xml
+D:\邦寧式電腦病毒\邦寧式電腦病毒\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\邦寧式電腦病毒\邦寧式電腦病毒\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\邦寧式電腦病毒\邦寧式電腦病毒\obj\x86\Debug\邦寧式電腦病毒.vbproj.GenerateResource.Cache
+D:\邦寧式電腦病毒\邦寧式電腦病毒\obj\x86\Debug\邦寧式電腦病毒.exe
+D:\邦寧式電腦病毒\邦寧式電腦病毒\obj\x86\Debug\邦寧式電腦病毒.xml
+D:\邦寧式電腦病毒\邦寧式電腦病毒\obj\x86\Debug\邦寧式電腦病毒.pdb

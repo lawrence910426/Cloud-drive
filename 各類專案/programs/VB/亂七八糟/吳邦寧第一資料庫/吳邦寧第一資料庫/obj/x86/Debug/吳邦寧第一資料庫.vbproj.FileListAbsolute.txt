@@ -1,0 +1,13 @@
+D:\吳邦寧第一資料庫\吳邦寧第一資料庫\bin\Debug\吳邦寧第一資料庫.exe
+D:\吳邦寧第一資料庫\吳邦寧第一資料庫\bin\Debug\吳邦寧第一資料庫.pdb
+D:\吳邦寧第一資料庫\吳邦寧第一資料庫\bin\Debug\吳邦寧第一資料庫.xml
+D:\吳邦寧第一資料庫\吳邦寧第一資料庫\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\吳邦寧第一資料庫\吳邦寧第一資料庫\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\吳邦寧第一資料庫\吳邦寧第一資料庫\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\吳邦寧第一資料庫\吳邦寧第一資料庫\obj\x86\Debug\吳邦寧第一資料庫.vbproj.GenerateResource.Cache
+D:\吳邦寧第一資料庫\吳邦寧第一資料庫\obj\x86\Debug\吳邦寧第一資料庫.exe
+D:\吳邦寧第一資料庫\吳邦寧第一資料庫\obj\x86\Debug\吳邦寧第一資料庫.xml
+D:\吳邦寧第一資料庫\吳邦寧第一資料庫\obj\x86\Debug\吳邦寧第一資料庫.pdb
+D:\vb程式\吳邦寧第一資料庫\吳邦寧第一資料庫\obj\x86\Debug\吳邦寧第一資料庫.exe
+D:\vb程式\吳邦寧第一資料庫\吳邦寧第一資料庫\obj\x86\Debug\吳邦寧第一資料庫.xml
+D:\vb程式\吳邦寧第一資料庫\吳邦寧第一資料庫\obj\x86\Debug\吳邦寧第一資料庫.pdb

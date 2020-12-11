@@ -1,0 +1,4 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\aToB\bin\Debug\aToB.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\aToB\bin\Debug\aToB.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\aToB\obj\x86\Debug\aToB.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\aToB\obj\x86\Debug\aToB.pdb

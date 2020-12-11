@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "人類反射神經的速度(於各種狀況下)", "人類反射神經的速度(於各種狀況下)\人類反射神經的速度(於各種狀況下).vbproj", "{35359658-D1CB-4883-9FC0-8D6596235961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35359658-D1CB-4883-9FC0-8D6596235961}.Debug|x86.ActiveCfg = Debug|x86
+		{35359658-D1CB-4883-9FC0-8D6596235961}.Debug|x86.Build.0 = Debug|x86
+		{35359658-D1CB-4883-9FC0-8D6596235961}.Release|x86.ActiveCfg = Release|x86
+		{35359658-D1CB-4883-9FC0-8D6596235961}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\lawrence\AppData\Local\Temporary Projects\MyFirstServer\bin\Debug\MyFirstServer.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\MyFirstServer\bin\Debug\MyFirstServer.pdb
+C:\Users\lawrence\AppData\Local\Temporary Projects\MyFirstServer\obj\x86\Debug\MyFirstServer.exe
+C:\Users\lawrence\AppData\Local\Temporary Projects\MyFirstServer\obj\x86\Debug\MyFirstServer.pdb
+D:\programs\C#\MyFirstServer\MyFirstServer\obj\x86\Debug\MyFirstServer.exe
+D:\programs\C#\MyFirstServer\MyFirstServer\obj\x86\Debug\MyFirstServer.pdb
+D:\programs\C#\MyFirstServer\MyFirstServer\bin\Debug\MyFirstServer.exe
+D:\programs\C#\MyFirstServer\MyFirstServer\bin\Debug\MyFirstServer.pdb
+D:\programs\C#\MyFirstServer\MyFirstServer\obj\x86\Debug\MyFirstServer.csprojResolveAssemblyReference.cache

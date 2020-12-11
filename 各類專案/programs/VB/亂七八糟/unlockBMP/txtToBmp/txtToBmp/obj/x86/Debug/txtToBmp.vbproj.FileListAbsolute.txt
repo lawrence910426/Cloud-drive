@@ -1,0 +1,8 @@
+D:\programs\vb\亂七八糟\unlockBMP\txtToBmp\txtToBmp\bin\Debug\txtToBmp.exe
+D:\programs\vb\亂七八糟\unlockBMP\txtToBmp\txtToBmp\bin\Debug\txtToBmp.pdb
+D:\programs\vb\亂七八糟\unlockBMP\txtToBmp\txtToBmp\bin\Debug\txtToBmp.xml
+D:\programs\vb\亂七八糟\unlockBMP\txtToBmp\txtToBmp\obj\x86\Debug\txtToBmp.Resources.resources
+D:\programs\vb\亂七八糟\unlockBMP\txtToBmp\txtToBmp\obj\x86\Debug\txtToBmp.vbproj.GenerateResource.Cache
+D:\programs\vb\亂七八糟\unlockBMP\txtToBmp\txtToBmp\obj\x86\Debug\txtToBmp.exe
+D:\programs\vb\亂七八糟\unlockBMP\txtToBmp\txtToBmp\obj\x86\Debug\txtToBmp.xml
+D:\programs\vb\亂七八糟\unlockBMP\txtToBmp\txtToBmp\obj\x86\Debug\txtToBmp.pdb
