@@ -5,3 +5,19 @@ User team1
 Host VLSI-Station
 HostName 140.114.75.200
 User u109062328
+
+Host Taiwania1-C1
+HostName clogin1.twnia.nchc.org.tw
+User lawrence0426
+
+Host Taiwania1-C2
+HostName clogin2.twnia.nchc.org.tw
+User lawrence0426
+
+Host Taiwania-G1
+HostName glogin1.twnia.nchc.org.tw
+User lawrence0426
+
+Host Taiwania2
+Hostname ln01.twcc.ai
+User lawrence0426
