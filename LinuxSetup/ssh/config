@@ -1,6 +1,7 @@
-Host SCC-Apollo
+Host Apollo
 HostName 140.114.91.245
 User team1
+Cipher diffie-hellman-group-exchange-sha256
 
 Host VLSI-Station
 HostName 140.114.75.200
@@ -18,11 +19,14 @@ Host Taiwania-G1
 HostName glogin1.twnia.nchc.org.tw
 User lawrence0426
 
-Host Taiwania2
+Host Taiwania2-1
 Hostname ln01.twcc.ai
 User lawrence0426
 
-Host Dormitory
-HostName lawrence910426.tk
-User lawrence910426
-Port 22222
+Host Taiwania2-2
+Hostname ln02.twcc.ai
+User lawrence0426
+
+Host dinnersys
+Hostname getthefuckout.dinnersystem.com
+User dinnersystem
