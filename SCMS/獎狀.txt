@@ -1,0 +1,55 @@
+### 個人賽 ###
+[First NA award]，出師不利獎，乙名，恭喜 karuta 在個人賽的 A - The time 中拿下整場比賽第一個 NA！
+-> 李易宸
+
+[Last NA award]，功虧一簣獎，乙名，恭喜 Marslai24 在個人賽的 E - Hey JUDgE 拿下整場比賽的最後一個 NA！
+-> 賴睿廷
+
+[Last AC awared]，臨門一腳獎，乙名，恭喜 gamic1234 在個人賽的 D - New Year and Ascent Sequence 拿下整場比賽的最後一個 AC！
+-> 張承勛
+
+[No.1]，大電神獎，乙名，恭喜　Marslai24 以橫掃全場的方式在個人賽中拿下第一名！
+-> 賴睿廷
+
+[Python weiredo award]，蟒蛇怪咖獎，恭喜　a0968833917, QRQRQR, Ed_hsuran, amber940128, pusapphire　在比賽中使用 Python 解題目，你們的怪異行徑受到尊敬。
+-> 胡承恩, 林子堯, 許桂銓, 陳沛伃, 莊明達
+
+[Evil M$ weirdo award]，邪惡微軟怪咖獎，恭喜 fan1008　在比賽中使用 Microsoft C++ 解題目，你的怪異行徑只被微軟尊敬。
+-> 林凡斟
+
+### 團體賽 ###
+[Ji Qi Zhi Zhui Award]　急起直追獎，恭喜 Tenmasakiki 在團體賽的最後幾分鐘單刷衝到第三名。
+-> 賴睿廷
+
+['No' Award]　「沒有得」獎，恭喜「邦寧好帥(隊名取得好會頒獎嗎？)」獲得「沒有得」獎。
+-> 戴偉璿, 魏仁祥, 張博瑋
+
+[Last WA]　功虧一簣獎，恭喜都可獲得了整場比賽的最後一個 WA。
+-> 陳毓軒, 林子堯, 胡承恩
+
+[Last RE]　記憶錯誤獎，恭喜 SCMS_第六組 獲得了比賽的最後一個 RE。
+-> 李卓岳, 李宗樺, 陳沛伃
+
+[Last AC]　臨門一腳獎，恭喜 SCMS 7 獲得了比賽的最後一個 AC。
+-> 周廷威, 王元亨, 許桂銓
+
+[First TLE]　慢速獎，恭喜 12_12-12 獲得了比賽的第一個 TLE。
+-> 林映辰, 廖竑羿, 黃紹洧
+
+[First WA]　出師不利獎，恭喜 SCMS_team09 獲得了比賽的第一個 WA。
+-> 彭詳睿, 李尚哲, 翁宇謙
+
+[?????] 全形字元獎，恭喜 ＤＯＮ’Ｔ　ＬＥＴ　ＭＥ　ｔｏｐ－ＤＯＷＮ 用全形字元毀滅了大家的雙眼。
+-> 游承熹, 丁哲宇, 林凡斟
+
+[1 shot] 一發入魂獎，恭喜 SCMS_4 沒有在比賽中拿到除了 AC 以外的分數。
+-> 黃冠瑋, 羅冠翔, 劉羽恩
+
+[1 shot] 一發入魂獎，恭喜 SCMS_Team3 沒有在比賽中拿到除了 AC 以外的分數。
+-> 謝師誠, 蔡宜呈, 胡紹安
+
+[Just do it]　鍥而不捨獎，恭喜　team_8 在賽中產出了最多 Submissions。
+-> 李易宸, 熊恩伶, 潘妮妮
+
+[ShuYamino] Vtuber 獎，恭喜 SCMS_t10 在模板中以 ShuYamino 當成優化指示詞，好油喔 peko。
+-> 莊明達, 賴香伊, 張承勛
