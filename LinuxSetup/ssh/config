@@ -61,3 +61,11 @@ Host art2
 Host art1-external
   HostName 140.114.91.158
   User lawrence910427
+
+Host OS-Server
+  HostName 10.121.187.197
+  User os22team27
+
+Host SunTali
+  HostName 114.34.103.119
+  User suntali
